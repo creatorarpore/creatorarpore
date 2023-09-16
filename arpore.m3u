@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="MRT0", ÖneÇıkan
 https://durmam.trgoals473.xyz/yayin1.m3u8
+#EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="MRT0", Yayın Star 1
+https://durmam.trgoals473.xyz/yayinstar.m3u8
 #EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="MRT0", Bein Sports 1
 https://durmam.trgoals473.xyz/yayinzirve.m3u8
 #EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="MRT0", Bein Sports 2
