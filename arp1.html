@@ -1,0 +1,179 @@
+
+
+<style type="text/css">
+      body{margin:0px;padding:0px;}
+   </style>
+<style>
+.video-js {
+position: absolute;
+    height: 100%!important;
+    z-index: 99;
+    right: 0;
+    left: 0;
+
+}
+.player_1-dimensions.vjs-fluid:not(.vjs-audio-only-mode) {
+    padding-top: 0%;
+}
+.btn {
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: #128deb;
+    border: none;
+    -webkit-border-radius: 0.1875rem;
+    border-radius: 0.1875rem;
+    display: inline-block;
+    margin-top: 30px;position: fixed;z-index: 9;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    line-height: 1;
+    padding: 10px 14px;
+    transition: .15s ease-in-out;
+    transition-property: background-color,color;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    word-spacing: normal;
+}
+.btn {
+    font-size: 14px;
+}
+.uyarikutu {
+    width: 92%;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 0.75rem 1.5rem;
+}
+#uyarikapat {
+    z-index: 99999;
+}
+.uyarikutu .uyaribaslik {
+    color: #fff;
+    border-radius: 10px;
+    background: rgba(3, 0, 163, 1);
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 25px;
+    padding: 0.5rem 5px;
+    margin: 0.5rem 0;
+}
+.uyarikutu .aciklaaciklama {
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+}
+.uyarikutu .aciklaaciklama amp-img {
+    margin-bottom: 0.2rem;
+}
+.uyarikutu .uyariaciklama {
+    color: #555;
+    text-align: center;
+    line-height: 18px;
+    margin-top: 0.5rem;
+}
+.uyarikutu .uyaributon {
+    text-align: center;
+    margin-top: 0;
+}
+.uyarikutu .uyaributon button {
+    border: none;
+    background: rgba(3, 0, 163, 1);
+    color: #fff;
+    padding: 0.6rem 15px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+.uyarikutu .uyaributon button a {
+    color: #000;
+}
+#uyarikutu {
+    background: rgba(59, 59, 59, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 100000000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+</style>
+
+                 <script type="text/javascript">
+                  function kapat(){
+                  document.getElementById("uyarikutu").style.display = "none";
+                  }
+                  </script>
+             
+<meta charset="utf-8">
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+    <script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
+     </script>
+   <div id="player"></div>
+   <!---  window.streams = ["https://" + (Math.floor(Math.random() * 10)  + 1) + ".ankeic.tk/taso1/index.m3u8"]; -->
+
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
+    </script>
+   <div id="player"></div>
+
+   <script type="text/javascript">
+     window.streams = ["https://prensesim.trgoals482.xyz/yayinstar.m3u8"];
+
+   var stream_source = window.streams[Math.floor(Math.random() * window.streams.length)];
+   if (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) {
+   stream_source = stream_source.replace('.oldstreaming', '.m3u8');
+   }
+   var player = new Clappr.Player({
+     source: stream_source,
+     mimeType: 'application/x-mpegURL',
+     height: "100%",
+     width: "100%",
+     parentId: "#player",
+       position: 'top-right',
+       mediacontrol: {seekbar: "#000"},
+       watermark: '/discordkatil.png',
+       poster: '/',
+       watermarkLink:'https://discord.gg/kral'
+   });
+          </script>
+
+
+      </tr> </table> </div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+
+
+
+
+<div style="display: none;">
+             <center><iframe src="/oldstreaming/sayacff.html" width="1" height="1" scrolling="no" frameborder="0"></iframe></center>
+       </div>
+
+
+  </body>
+</html>
