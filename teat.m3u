@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", ÖneÇıkan
+https://trgoals.babamrb.workers.dev/yayin1.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein Sports 1
+https://trgoals.babamrb.workers.dev/yayinzirve.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein Sports 2
+https://trgoals.babamrb.workers.dev/yayinb2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein Sports 3
+https://trgoals.babamrb.workers.dev/yayinb3.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein Sports 4
+https://trgoals.babamrb.workers.dev/yayinb4.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein Sports 5
+https://trgoals.babamrb.workers.dev/yayinb5.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein 1 Max
+https://trgoals.babamrb.workers.dev/yayinbm1.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Bein 2 Max
+https://trgoals.babamrb.workers.dev/yayinbm2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", S sport
+https://trgoals.babamrb.workers.dev/yayinss.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", S sport 2
+https://trgoals.babamrb.workers.dev/yayinss2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", TV 8.5
+https://trgoals.babamrb.workers.dev/yayintv85.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Spor Smart
+https://trgoals.babamrb.workers.dev/yayinsmarts.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Spor Smart 2
+https://trgoals.babamrb.workers.dev/yayinsms2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", TivibuSpor 1
+https://trgoals.babamrb.workers.dev/yayint1.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", TivibuSpor 2
+https://trgoals.babamrb.workers.dev/yayint2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", TivibuSpor 3
+https://trgoals.babamrb.workers.dev/yayint3.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", TivibuSpor 4 
+https://trgoals.babamrb.workers.dev/yayint4.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", EuroSport 1
+https://trgoals.babamrb.workers.dev/yayineu1.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", EuroSport 2
+https://trgoals.babamrb.workers.dev/yayineu2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Nba TV
+https://trgoals.babamrb.workers.dev/yayinnbatv.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 1 HD
+https://trgoals.babamrb.workers.dev/yayinex1.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 2 HD
+https://trgoals.babamrb.workers.dev/yayinex2.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 3 HD
+https://trgoals.babamrb.workers.dev/yayinex3.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 4 HD
+https://trgoals.babamrb.workers.dev/yayinex4.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 5 HD
+https://trgoals.babamrb.workers.dev/yayinex5.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 6 HD
+https://trgoals.babamrb.workers.dev/yayinex6.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 7 HD
+https://trgoals.babamrb.workers.dev/yayinex7.m3u8
+#EXTINF:1  tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0"tvg-language="Turkish" group-title="SPOR", Exxen Sports 8 HD
+https://trgoals.babamrb.workers.dev/yayinex8.m3u8
+
