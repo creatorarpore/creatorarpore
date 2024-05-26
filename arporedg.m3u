@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="ARP", Bein Sports 1 gs
+https://hls.evdemiknk.workers.dev/https://saplarim.macizletin42.site/hls/bein-sports-1.m3u8
+#EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="ARP", Bein Sports 2 fb
+https://hls.evdemiknk.workers.dev/https://saplarim.macizletin42.site/hls/bein-sports-1.m3u8
 #EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="ARP", Bein Sports 1
 https://due.ecc8d51719c67439.shop/i/3eEpvrwS3oRj9go65EgmsbZBC4MToBKuHf2uTAyWbkABXWjSPWw2boSxcJPpYE6aGKBBopiVWqVyR7CbRbTL7sv1DEuEn9vES2Qzcxmf7Zk9vTkA5X7UtD1vkQsDPe/601/playlist.m3u8
 #EXTINF:1 tvg-id=""tvg-language="Turkish" group-title="ARP", Bein Sports 2
