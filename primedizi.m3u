@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="mad tv-https://t.me/madtv" group-title="mad tv",mad tv-https://t.me/madtvtr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ctyc01c.png" tvg-name="mad tv-https://t.me/madtv" group-title="mad tv",mad tv-https://t.me/madtvtr
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="TR | AMAZON PRIME DIZI" tvg-logo="https://image.tmdb.org/t/p/w185/gCrRzuzyVoGPkiORPIofoP7bE7c.jpg" tvg-name="Outer Range S01 Outer Range - S01E01 - Boşluk" ,Outer Range S01 Outer Range - S01E01 - Boşluk
 http://sippaket.xyz:8080/series/bayarorhan324832/orhan4324232/408034.mkv
