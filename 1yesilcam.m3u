@@ -1,0 +1,1151 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/i8oxzvd.png" tvg-name="ingsport tv-https://t.me/ingsporttv" group-title="ingsport tv",ingsport tv-https://t.me/ingsporttv
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEqcjxhmK3Uk2lQOqq65iXKQBxO.jpg" tvg-name="Çapkın Kız (1963)" ,Çapkın Kız (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/421345.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clv336cqwGwKVHao8Q63BdN0g5g.jpg" tvg-name="Bire On Vardı (1963)" ,Bire On Vardı (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/421344.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uUuJb0b75TznFIKL5xKf8wro9A.jpg" tvg-name="Yıkılmayan Adam (1977)" ,Yıkılmayan Adam (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/362426.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olqd5fIdxPegaqKKEgdnJk2J3MD.jpg" tvg-name="Teyzem (1986)" ,Teyzem (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/360218.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QysoxGEW5spVH1i0FmSzHJZbKZ.jpg" tvg-name="Dünyayı Kurtaran Adam (1982)" ,Dünyayı Kurtaran Adam (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/360217.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://i.ytimg.com/vi/9jOoDFHixVE/mqdefault.jpg" tvg-name="14 Numara (1985)" ,14 Numara (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283100.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bp3h7SZDI7KPw0jK0L6EwfMqzZC.jpg" tvg-name="Aaahh Belinda (1986)" ,Aaahh Belinda (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283102.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMrYbVw3C8ojfga1hLLoHoPPGmc.jpg" tvg-name="Ablası Güzel (1964)" ,Ablası Güzel (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283103.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dvl8xuKXBAvZ4KOsaU0zweDKZH.jpg" tvg-name="Abuzer Kadayıf (2000)" ,Abuzer Kadayıf (2000)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283104.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WmY6YTFjfpJEmJmlgFbo6sD1ua.jpg" tvg-name="Acele Koca Aranıyor (1975)" ,Acele Koca Aranıyor (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283105.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0B5xWOsLQgm0diM3g2HZJknONf.jpg" tvg-name="Acı Hatıralar (1977)" ,Acı Hatıralar (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283108.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kCTJn1lMvVJhdnJvXLUVM1LtBE.jpg" tvg-name="Acı Hayat (1962)" ,Acı Hayat (1962)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283109.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRK47GwBI2T6iketsY697ce1cwE.jpg" tvg-name="Acı ile Karışık (1969)" ,Acı ile Karışık (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283110.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doCdGinMlMYlzvE1cSPUwC40iQx.jpg" tvg-name="Acı İntikam (1968)" ,Acı İntikam (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283111.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hrnLBT5c2frnfWouUf7T3p6o33.jpg" tvg-name="Acı Lokma (1986)" ,Acı Lokma (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283112.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjts9JtiNYjRjUvuUCf5REo3sPT.jpg" tvg-name="Aç Kurtlar (1969)" ,Aç Kurtlar (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283113.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv5AensuacqfRq72M9qitmbVPSf.jpg" tvg-name="Adak (1980)" ,Adak (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283114.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acZhJVcKobGvPESlACF5F42m9JN.jpg" tvg-name="Adalet (1977)" ,Adalet (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283115.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2c84FdnTvSdsmgca68SWETOewX.jpg" tvg-name="Adalı Kız (1976)" ,Adalı Kız (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283116.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhrlwkFO1pgl2abYdPj935for3P.jpg" tvg-name="A'dan Z'ye Kadar O Biçim (1975)" ,A'dan Z'ye Kadar O Biçim (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283117.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNB51pw1uGvRTDXe7uIAgwutQXv.jpg" tvg-name="Adile Teyze (1983)" ,Adile Teyze (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283118.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EU0BluGoB9sWfEJGKBwg5v1tFB.jpg" tvg-name="Adını Anmayacağım (1971)" ,Adını Anmayacağım (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283119.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB4aLywUQ0ZnGS0tivB9h338xrI.jpg" tvg-name="Adı Vasfiye (1985)" ,Adı Vasfiye (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283120.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvcchkVF9tvlx9QevYgYq9wpEho.jpg" tvg-name="Afacan Küçük Serseri (1971)" ,Afacan Küçük Serseri (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283123.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p55mOW9Sw2dqXdwo48AS44VkBzB.jpg" tvg-name="Affedilmeyen (1966)" ,Affedilmeyen (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283124.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDLShJe7ktAV23bsrj69XYD9j2G.jpg" tvg-name="Affedilmeyen (1977)" ,Affedilmeyen (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283125.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvmLUZuyM8FkQgMBA3FHTD4l6aYoC-cHzyfRhF_4D5RX7tGNZ9MXSnAL3qSIM0hsrzb2c&usqp=CAU" tvg-name="Afili Delikanlilar (1964)" ,Afili Delikanlilar (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283127.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9vUCqtSlKATKprK7iLWCmgoftO.jpg" tvg-name="Ağıt (1972)" ,Ağıt (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283128.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5o2UOvKSfG7irJ4uhq7Vzb8WgQ4.jpg" tvg-name="Ah Güzel İstanbul (1966)" ,Ah Güzel İstanbul (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283129.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mNGLfG9JH802V8FEpa6SOIQ5c.jpg" tvg-name="Ah Müjgan Ah (1970)" ,Ah Müjgan Ah (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283130.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3QPC6lIPJYN2mfNuE61lbq3RU6.jpg" tvg-name="Ah Nerede (1975)" ,Ah Nerede (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283131.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg5uKc3KEnfIrdnc9sTx3X6hqxU.jpg" tvg-name="Aile Şerefi (1976)" ,Aile Şerefi (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283132.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzTRphc9UAIvmTXPvfTCOJEDFBy.jpg" tvg-name="Akrep Yuvası (1977)" ,Akrep Yuvası (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283133.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKZeW1Dh5e8kiH0Fn3qi1bc1tcS.jpg" tvg-name="Akşamcı (1968)" ,Akşamcı (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283134.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPCJLnnpw4ZjQTLZOPJqHbS4gQm.jpg" tvg-name="Alev (1976)" ,Alev (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283135.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEhshGAqFAbgSk7nvPgc4WiGdGH.jpg" tvg-name="Alev Alev (1984)" ,Alev Alev (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283136.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lod0NxqnmdjuiuylOb11TElQahj.jpg" tvg-name="Ali Baba ve Kırk Haramiler (1972)" ,Ali Baba ve Kırk Haramiler (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283137.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meaIz77Q0XPrKcBtBgfmeGixtl.jpg" tvg-name="Alişan (1982)" ,Alişan (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283138.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZiXnrVATcgLmzbJQDlDyXRLYC5.jpg" tvg-name="Almanyalı Yarim (1974)" ,Almanyalı Yarim (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283139.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M3dS0YpiuudmrbKAFoFcXTnezo.jpg" tvg-name="Altın Kafes (1958)" ,Altın Kafes (1958)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283142.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEeFNENGcJH8EVmoEjUTBplWjSb.jpg" tvg-name="Aman Karım Duymasın (1976)" ,Aman Karım Duymasın (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283145.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkTPHBsxb8EUQyKs9pgsomecZQV.jpg" tvg-name="Amansız Yol (1985)" ,Amansız Yol (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283147.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5xpucMoR2myLyzPLAl6k907jUq.jpg" tvg-name="Amerikalı (1993)" ,Amerikalı (1993)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283148.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/60/Anadolu_Ekspresi_film_afi%C5%9Fi.jpg" tvg-name="Anadolu Ekspresi (1973)" ,Anadolu Ekspresi (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283151.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEUGPdgeRqIwWuuiK5qm5MXV4bo.jpg" tvg-name="Anadolu Çocuğu (1964)" ,Anadolu Çocuğu (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283152.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/QhFMYnyxy9yIDBUpKPeihixTqD.jpg" tvg-name="Ana Ocağı (1977)" ,Ana Ocağı (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283153.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KlOkBOB46NdxCW3qhIIzxk9zse.jpg" tvg-name="Ankara Ekspresi (1971)" ,Ankara Ekspresi (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283155.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxaqZqjh0ztb1dbhjNC2kOy1rvS.jpg" tvg-name="Anne ya da Leyla (2006)" ,Anne ya da Leyla (2006)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283157.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL9dX738868drRRdMQ0O6XUYCtE.jpg" tvg-name="Aptal Kahraman (1983)" ,Aptal Kahraman (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283162.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpmtoPapd6XpCcB5e1p1HCCso3.jpg" tvg-name="Aptal Şampiyon (1975)" ,Aptal Şampiyon (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283163.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lrHbO9b7ikGmeFMbF3dfjY2Qxz.jpg" tvg-name="Arabesk (1989)" ,Arabesk (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283164.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFK4KbeQW7U4JpUiFVLEngnlfU1.jpg" tvg-name="Çaresiz (1978)" ,Çaresiz (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283167.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k64x9ZEa4S9O7iLOO1F9YlMIJDz.jpg" tvg-name="Arkadaş (1974)" ,Arkadaş (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283169.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l21QeMTfARHDLlS5loVlDcfJAxa.jpg" tvg-name="Arkadaşım (1982)" ,Arkadaşım (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283170.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeg91DO5Tl1xPvbw6bIMIqPMFIB.jpg" tvg-name="Arkadaşım Şeytan (1988)" ,Arkadaşım Şeytan (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283171.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iMWgFXqXMMrpbgLVhYpGb6L2uJ.jpg" tvg-name="Arkadaşlık Öldü mü (1970)" ,Arkadaşlık Öldü mü (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283172.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixki03uwg1V9ZUTouupVQMwXLsN.jpg" tvg-name="Aşık Oldum (1985)" ,Aşık Oldum (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283175.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VXKjMDgnV9eyz6PRgJ9Gx7HfoZ.jpg" tvg-name="Sen Aşıksın Arkadaş (1988)" ,Sen Aşıksın Arkadaş (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283176.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TnC8XqInUJvLvVY1x3lOwO3G07.jpg" tvg-name="Aşka Susayanlar: Seks ve Cinayet (1972)" ,Aşka Susayanlar: Seks ve Cinayet (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283177.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeL1BHMcOMqECfzYxclFN8nd51r.jpg" tvg-name="Askerin Dönüşü (1974)" ,Askerin Dönüşü (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283178.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoH9M13NQ8gCJvlub5p849IG1rC.jpg" tvg-name="Aşk Filmlerinin Unutulmaz Yönetmeni (1990)" ,Aşk Filmlerinin Unutulmaz Yönetmeni (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283180.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJkZjFiMTQtMzRkNy00OTI4LTk2NjItZTFjOGZiZDQ0MmIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_FMjpg_UX1000_.jpg" tvg-name="Aşkın Kanunu Yoktur (1986)" ,Aşkın Kanunu Yoktur (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283182.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQYXKw0ka3QIeyj1A20I53bRaSf.jpg" tvg-name="Aşkın Saati Gelince (1961)" ,Aşkın Saati Gelince (1961)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283183.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUzOTgxNjYtYjgxMi00YTFhLTg1ODUtOWUyODYxOGYyMzU4XkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1_FMjpg_UX1000_.jpg" tvg-name="Aşkın Zaferi (1974)" ,Aşkın Zaferi (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283184.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfQVcNkZcJDwjIjRM4y1TslIxpK.jpg" tvg-name="Aşk Ölümden Soğuktur (1994)" ,Aşk Ölümden Soğuktur (1994)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283185.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4m3ahSv4HXYoeGoV7hOjcF0yFz.jpg" tvg-name="Aslan Bacanak (1977)" ,Aslan Bacanak (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283186.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njc98YzxCnYv1WSr50YBIyZmxoj.jpg" tvg-name="Ateş Böceği (1975)" ,Ateş Böceği (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283188.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbkimBCrLpaXHGmU5GwxbEhfA6Q.jpg" tvg-name="Ateşdağlı (1985)" ,Ateşdağlı (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283189.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxUb0LjBkvxx05xsz9YiS0u2bKb.jpg" tvg-name="Ateşli Çingene (1969)" ,Ateşli Çingene (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283190.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI3MWIyZTUtYjI0NC00ZmMxLTkxMTAtODRiZWU3OWFiOTNiXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX1000_.jpg" tvg-name="Ateş Dağlı (1985)" ,Ateş Dağlı (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283191.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAHTxg1RFdRk3a9QygxQYExEAsc.jpg" tvg-name="Atını Seven Kovboy (1974)" ,Atını Seven Kovboy (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283193.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/a/Atmaca-Ali.jpg" tvg-name="Atmaca Ali (1976)" ,Atmaca Ali (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283194.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V2XHCA24w8B3Zv5ClfgLnrRMwd.jpg" tvg-name="Ava Giden Avlanır (1986)" ,Ava Giden Avlanır (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283195.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9Y3pXI0jP2KYrrGUbTsV1b5aEh.jpg" tvg-name="Avare (1965)" ,Avare (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283196.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aN5Il1UrhNdgOClWWkT9LAekRo.jpg" tvg-name="Avrupalı (2007)" ,Avrupalı (2007)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283197.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roGY3nJf2U2gNIvhlwgG84Vrubb.jpg" tvg-name="Av Zamanı (1988)" ,Av Zamanı (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283199.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTlmNDI1YWEtMTY5Yi00NGE3LWJjNzktNTAwZmM2ZmQxNGU4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_.jpg" tvg-name="Ayıpettin Şemsettin (1971)" ,Ayıpettin Şemsettin (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283200.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GKPSoC4kzqsJS3KeHur4jmxpzy.jpg" tvg-name="Aynı Yolun Yolcusu (1972)" ,Aynı Yolun Yolcusu (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283202.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm00dIxwgLOL3Dn4ivU11lmgnFH.jpg" tvg-name="Ayrı Dünyalar (1974)" ,Ayrı Dünyalar (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283203.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJkMjM2NDEtN2M5NS00NDA4LWIxOTYtY2JkNzI5ZjMzOGZkXkEyXkFqcGdeQXVyNDM2MzgwMTA@._V1_FMjpg_UX1000_.jpg" tvg-name="Ayşecik Cimcime Hanım (1964)" ,Ayşecik Cimcime Hanım (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283204.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGaoBuxPzxSeGEeHJLAFpTDDYf8.jpg" tvg-name="Ayşecik Çıtı Pıtı Kız (1964)" ,Ayşecik Çıtı Pıtı Kız (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283205.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU3MjM5MGQtZTMwMC00ODcxLThiYzctYzljYTc4MzZkZTA1XkEyXkFqcGdeQXVyNjYxOTg1NjE@._V1_FMjpg_UX1000_.jpg" tvg-name="Sokak Kızı (1966)" ,Sokak Kızı (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283206.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyzUs9YPlJohxHuLpurjVgEFvt1.jpg" tvg-name="Ayşegül (1971)" ,Ayşegül (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283207.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3Bqyz3SGExWXor1vkCzegrHqh6.jpg" tvg-name="Ayşem (1984)" ,Ayşem (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283209.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYNIpTqgFG0r6mt1O1cFS5igp0Z.jpg" tvg-name="Ay Vakti (1994)" ,Ay Vakti (1994)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283210.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n480wPxxVqgA3Nh6bo2Q0g4wRn.jpg" tvg-name="Azad Kuşu (1972)" ,Azad Kuşu (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283211.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/a/Azap-1303130687.jpg" tvg-name="Azap (1987)" ,Azap (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283212.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfa9UfkGbe7isVuS4UBQ6HENlUw.jpg" tvg-name="Babaların Babası (1975)" ,Babaların Babası (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283213.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29sW2r0RgFhhouZ6uvnkFmOoNfR.jpg" tvg-name="Babamın Namusu (1986)" ,Babamın Namusu (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283214.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veZiEIMnOuP8uBQ1my8fX9s8CgK.jpg" tvg-name="Babasının Oğlu (1986)" ,Babasının Oğlu (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283215.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTfrZYXb8ik1WAFqhwrtjZ4r8aQ.jpg" tvg-name="Bahriyeli Ahmet (1963)" ,Bahriyeli Ahmet (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283217.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vKRpjigWpCIQaT9TbgqTh8Zhen.jpg" tvg-name="Bak Yeşil Yeşil (1975)" ,Bak Yeşil Yeşil (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283218.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2IyZWI5NzItZGU5Zi00ODFjLWIzNTgtOWUxN2Y4MGM4ZWFkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjkzNDQ5MTg@._V1_FMjpg_UX1000_.jpg" tvg-name="Balayı (1984)" ,Balayı (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283219.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwZDR5Bw2DMkYn6CvWHV3qCo9mD.jpg" tvg-name="Baldız (1975)" ,Baldız (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283220.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0ZEVUCmCGCxADxsKctFVOZF31B.jpg" tvg-name="Balıkçı Osman (1973)" ,Balıkçı Osman (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283221.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0rnkXRmVW8eEWh1PfHnk4cAuPh.jpg" tvg-name="Banker Bilo (1980)" ,Banker Bilo (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283223.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqUMAxWIknl5V1466sB7cneHQ5I.jpg" tvg-name="Baskın (1972)" ,Baskın (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283226.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEqMKM8gAAl1U6OdIjS7rLz4dMI.jpg" tvg-name="Batan Güneş (1978)" ,Batan Güneş (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283227.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIjBh43oMC00ePT3SCN02sfxIKE.jpg" tvg-name="Battal Gazi Destanı (1971)" ,Battal Gazi Destanı (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283231.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU1ODk5NzktN2UxMC00MGY1LTlhMWUtOWViMjEyMTc1OTkzXkEyXkFqcGdeQXVyNDg0NjMwNDY@._V1_FMjpg_UX1000_.jpg" tvg-name="Bebek Davası (1986)" ,Bebek Davası (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283232.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2xJghA0tanD1pY1at8DTNjzAta.jpg" tvg-name="Belalılar (1974)" ,Belalılar (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283233.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s3wmR4N7Iw2s3Z1NPHQ1i59RMH.jpg" tvg-name="Ben Bir Garip Keloğlanım (1976)" ,Ben Bir Garip Keloğlanım (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283234.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wAMKOwUhpwYYjkXkUDYm7iE6lq.jpg" tvg-name="Ben Bir Kanun Kaçağıyım (1966)" ,Ben Bir Kanun Kaçağıyım (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283235.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rqSG7wf78U4niiAci0jw0QEpz4.jpg" tvg-name="Benim Gibi Sevenler (1978)" ,Benim Gibi Sevenler (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283237.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VwDgREZofa9pAGuPmTsvMvFFQa.jpg" tvg-name="Berduş (1969)" ,Berduş (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283238.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnnrvrJ0daXusK7zNjdRbjebJsN.jpg" tvg-name="Berduş Milyoner (1965)" ,Berduş Milyoner (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283240.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eDT6hgyqixSWoUN11b7MeS3GwM.jpg" tvg-name="Bereketli Topraklar Üzerinde (1980)" ,Bereketli Topraklar Üzerinde (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283241.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg" tvg-name="Berlin, Berlin (2020)" ,Berlin, Berlin (2020)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283242.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJmKAAvQOHZtGNgoAEU2c87MVLo.jpg" tvg-name="Beş Milyoncuk Borç Verir misin (1975)" ,Beş Milyoncuk Borç Verir misin (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283244.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq1fOgqrwyqddH5su2U3Vxrc4XZ.jpg" tvg-name="Beyoğlu Güzeli (1972)" ,Beyoğlu Güzeli (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283247.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XsgQ2euONwR6yTFjmCXtnNQCD.jpg" tvg-name="Bir Dağ Masalı (1967)" ,Bir Dağ Masalı (1967)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283254.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYgCofzockVhXauO1FPUVLHvBGq.jpg" tvg-name="Bir Kırık Bebek (1988)" ,Bir Kırık Bebek (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283256.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEJG3Qx3fk99oosg5EI0fvrrKPT.jpg" tvg-name="Birleşen Yollar (1970)" ,Birleşen Yollar (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283257.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIJzYR9BZlCghSwmdu1bXE595Yc.jpg" tvg-name="Bir Millet Uyanıyor (1966)" ,Bir Millet Uyanıyor (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283258.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6baWIRRgQXKqKHTTNmNJdD64Qt.jpg" tvg-name="Bir Teselli Ver (1971)" ,Bir Teselli Ver (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283259.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9c6K2pstQNdOzF79f5kEfBgguy.jpg" tvg-name="Bir Yabancı (1975)" ,Bir Yabancı (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283260.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVhszOlLL61ztazrMQKEtj3W5Vc.jpg" tvg-name="Bir Yudum Mutluluk (1982)" ,Bir Yudum Mutluluk (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283261.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snaEA0uYhB9d24InbopOVmm5KuW.jpg" tvg-name="Bir Yudum Sevgi (1984)" ,Bir Yudum Sevgi (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283263.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzsn7iMnNBEbGHe9gynLM8XZRm.jpg" tvg-name="Bitirimler Sosyetede (1973)" ,Bitirimler Sosyetede (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283265.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtUvdyoioTnzzmcvlJRKEMIii4.jpg" tvg-name="Biz Bir Aileyiz (1985)" ,Biz Bir Aileyiz (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283266.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" tvg-name="Bizim Aile (1975)" ,Bizim Aile (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283267.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVYhvSoQl1vDZiTRzRwHTS6jCJC.jpg" tvg-name="Bizimkiler: Hüdaverdi - Pırtık (1971)" ,Bizimkiler: Hüdaverdi - Pırtık (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283268.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJiBDZf7XdD3GIQrYuVtuoKPhET.jpg" tvg-name="Bodrum Hakimi (1976)" ,Bodrum Hakimi (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283269.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8CoLfcLfjVruQYIqgSZJSM8q6r.jpg" tvg-name="Bomba Gibi Kız (1964)" ,Bomba Gibi Kız (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283270.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chX6a6EXoBw3Aqjkhpa4x86bq1m.jpg" tvg-name="Boş Beşik (1969)" ,Boş Beşik (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283271.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4IUVhoYPBQfowX9lfbPXhIZo2yH.jpg" tvg-name="Boş Çerçeve (1969)" ,Boş Çerçeve (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283272.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2Ma27Am6tQ9ucFgh4PPjiAxhny.jpg" tvg-name="Boşver Arkadaş (1974)" ,Boşver Arkadaş (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283273.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wu2R3bKrT7B1xvKLBGrCkFOPS2n.jpg" tvg-name="Boyacı (1966)" ,Boyacı (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283274.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psXdyP6s4jUjrMfrH9xn2qxxM1H.jpg" tvg-name="Boynu Bükük Küheylan (1990)" ,Boynu Bükük Küheylan (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283275.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFka5tQbKrvK6dSPe5AN3cgnU0o.jpg" tvg-name="Boynu Bükükler (1985)" ,Boynu Bükükler (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283276.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWTEDbCFrBK13LBU0nx9dwEUsjM.jpg" tvg-name="Bulunmaz Uşak (1963)" ,Bulunmaz Uşak (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283281.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PC4wzDCQIkoO5HLSyEy84Kqlzj.jpg" tvg-name="Büyük Yemin (1969)" ,Büyük Yemin (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283284.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zwXqYbQtoYNNvh1zHpvhdpA8Ss.jpg" tvg-name="Çalınan Aşk (1963)" ,Çalınan Aşk (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283288.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N70rG8Ba4NW7712eybvD78MR1A.jpg" tvg-name="Çam Sakızı (1974)" ,Çam Sakızı (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283289.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwMsyrsicBrGRsnlZkVBrL7x5A8.jpg" tvg-name="Canikom (1979)" ,Canikom (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283290.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" tvg-name="Canım Kardeşim (1973)" ,Canım Kardeşim (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283291.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTlkYzk2ZjQtZmUzZC00NjZkLWJkMWUtZWZkMzk0YWJjMmQxXkEyXkFqcGdeQXVyNzE2MjU3Mzk@._V1_FMjpg_UX1000_.jpg" tvg-name="Çapkin Baba (1986)" ,Çapkin Baba (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283292.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzyRICzpA0SEQEATWxKwej0B5wG.jpg" tvg-name="Çapkın Hırsız (1975)" ,Çapkın Hırsız (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283293.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://fr.web.img3.acsta.net/medias/nmedia/18/79/90/13/19537406.jpg" tvg-name="Cehennem 3D (2010)" ,Cehennem 3D (2010)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283294.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zbnuxmGXMbbOapi2g5ZVTwMJxl.jpg" tvg-name="Ceza (1975)" ,Ceza (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283296.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRm5VkDbfQRJSp9gnQo2uBDrzkF.jpg" tvg-name="Cici Kız (1974)" ,Cici Kız (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283299.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVEfpvuaLPlSZMKVz8au6LHC1jt.jpg" tvg-name="Cilalı İbo Perili Köşkte (1960)" ,Cilalı İbo Perili Köşkte (1960)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283300.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQbJGqP1FNz7Ad0tcjXIrhmUjuW.jpg" tvg-name="Cilveli Kız (1969)" ,Cilveli Kız (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283302.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc2NGE5YzUtYmE5Yi00MzM1LWJkYzUtNjJjMDE2M2MzZDlmXkEyXkFqcGdeQXVyNzE2MjU3Mzk@._V1_.jpg" tvg-name="Çirkin Kral Affetmez (1967)" ,Çirkin Kral Affetmez (1967)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283303.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKXombnZ2ntcFo9Asqc1zPfeIzO.jpg" tvg-name="Dağdan İnme (1973)" ,Dağdan İnme (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283310.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMgaRvsF3RZQ9MsBw5X7uhqfzT6.jpg" tvg-name="Dağınık Yatak (1984)" ,Dağınık Yatak (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283311.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSw6TounGSZckdC2bEhAVGz3ry7.jpg" tvg-name="Daima Kalbimdesin (1962)" ,Daima Kalbimdesin (1962)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283313.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KrJ5wYraYCzdrMOqTppxZeUggz.jpg" tvg-name="Damdaki Kemancı (1971)" ,Damdaki Kemancı (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283315.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h877LjHySsLXBy1vXfwoRxjIYDm.jpg" tvg-name="Darıldınmı Cicim Bana (2004)" ,Darıldınmı Cicim Bana (2004)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283316.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w0aNVvDdJ0pXwIRekyvtBqissj.jpg" tvg-name="Davetsiz Misafir (1983)" ,Davetsiz Misafir (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283318.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVswnWtTg4IXMwXxCGZhIYlA4wM.jpg" tvg-name="Değirmen (1986)" ,Değirmen (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283322.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohgnGXRAIeKQ3VNjDKJ4Z4vhNwL.jpg" tvg-name="Delicesine (1976)" ,Delicesine (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283323.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" tvg-name="Deli Deli Küpeli (1986)" ,Deli Deli Küpeli (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283324.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YUHdDdTkHja1FjQ8idx7E7NA42.jpg" tvg-name="Deli Kan (1981)" ,Deli Kan (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283325.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjuOlYFbwiq6Yxf2sswLuu7P6Mv.jpg" tvg-name="Derbeder (1978)" ,Derbeder (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283326.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xinZxWNRpHtSB0t1M2eStG8vQOS.jpg" tvg-name="Derman (1983)" ,Derman (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283327.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zSMxFW4bmWYVzp2xK4892nNdeG.jpg" tvg-name="Dert Bende (1973)" ,Dert Bende (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283328.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XmOVU5oDGjfeVwp6CYiWaaGLDZ.jpg" tvg-name="Dertler Benim Olsun (1974)" ,Dertler Benim Olsun (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283329.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7W2KHUckaGRchFC8heiGl5rLPj.jpg" tvg-name="Dertli Dertli (1987)" ,Dertli Dertli (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283330.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tB8UmOdZQMkizHkvqZgF0OV3gf.jpg" tvg-name="Derviş Bey (1978)" ,Derviş Bey (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283331.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhitigYEyemYWOY8PE64wCBMkFD.jpg" tvg-name="Derya Gülü (1979)" ,Derya Gülü (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283332.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1IFRlMBWZIvFxng46dnD5aazBl.jpg" tvg-name="Aşk Olsun (1985)" ,Aşk Olsun (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283333.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg2MzU4ODMtMjk3Ny00OWU0LWFkYzMtZTk1ZmRhZDAzNGUzXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UY281_CR9,0,190,281_.jpg" tvg-name="Devekusu Kabare - Beyoglu Beyoglu (1984)" ,Devekusu Kabare - Beyoglu Beyoglu (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283334.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYxNGE5N2YtMzZiYy00YTJiLTg4MWEtYjVjN2FkOWI2MTRlXkEyXkFqcGdeQXVyNjg5MDA2NDg@._V1_FMjpg_UX1000_.jpg" tvg-name="Devekusu Kabare - Deliler (1988)" ,Devekusu Kabare - Deliler (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283335.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCqzzZRpLOXQIjalwqLoFpGbKZX.jpg" tvg-name="Dev Kanı (1984)" ,Dev Kanı (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283336.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWTnRMqrvQ0wTMlgayFOwR06KtB.jpg" tvg-name="Devlerin Aşkı (1956)" ,Devlerin Aşkı (1956)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283337.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOI6fTzhoJT5w2sKP7TGnmImCLN.jpg" tvg-name="Devlerin Aşkı (1976)" ,Devlerin Aşkı (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283338.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNsghMeEnahSkqqzdNkSpYxgPRy.jpg" tvg-name="Dikiz Aynası (1973)" ,Dikiz Aynası (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283340.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIf3kWckcZdz4DJStTmzNEnTaMa.jpg" tvg-name="Dilâ Hanım (1977)" ,Dilâ Hanım (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283341.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnREeOGQYgKMCjpn4XVtuglPB9a.jpg" tvg-name="Diyet (1974)" ,Diyet (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283342.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsI52DbLHsLy6c5LmWgOdMeSBCZ.jpg" tvg-name="Doktor (1979)" ,Doktor (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283345.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeaocfWyVGYHrTmvbJoWW68yNg.jpg" tvg-name="Doktor Civanım (1983)" ,Doktor Civanım (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283346.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" tvg-name="Dolap Beygiri (1982)" ,Dolap Beygiri (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283347.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcFjMC1algAC1DBlWYVavoQyqa1.jpg" tvg-name="Dönme Dolap (1983)" ,Dönme Dolap (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283348.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IDXDt9VyUwcIVdk5ehSPymaZxl.jpg" tvg-name="Dul Bir Kadın (1985)" ,Dul Bir Kadın (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283349.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYkhov3BeX58x8LpsNoAtcno1En.jpg" tvg-name="Düş Gezginleri (1992)" ,Düş Gezginleri (1992)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283350.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RZFQpcNQNM4oNWw560AFsrPCEv.jpg" tvg-name="Düşman (1980)" ,Düşman (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283351.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olbDjDohv3NS4wLRdOLZV4HWhTU.jpg" tvg-name="Düşman Yolları Kesti (1959)" ,Düşman Yolları Kesti (1959)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283353.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3SZWUKTX9sT81qKuR6QxX0s6jA.jpg" tvg-name="Düttürü Dünya (1988)" ,Düttürü Dünya (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283354.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNyj3YCF8q4bteMaFHCF2lWTJVN.jpg" tvg-name="Duvar (1983)" ,Duvar (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283355.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQwMjYzZGQtMmI2MC00ZmJkLWFkNDUtOGViMWFkOTc4Mzc2XkEyXkFqcGdeQXVyNzE2MjU3Mzk@._V1_FMjpg_UX1000_.jpg" tvg-name="Düzen (1978)" ,Düzen (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283356.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0DMg9DXTd9JXD5y2nHejC0PukV.jpg" tvg-name="Efkârlıyım Abiler (1966)" ,Efkârlıyım Abiler (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283359.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2FIJqNpjE8C0ZTFTWtbduaeqVM.jpg" tvg-name="Ekmekçi Kadın (1965)" ,Ekmekçi Kadın (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283360.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84ZT9BAOsXaMpLxBnxr5KKhNumA.jpg" tvg-name="Eksik Etek (1976)" ,Eksik Etek (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283361.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NMTaWidc8WyiT2gGHnie3A9ujH.jpg" tvg-name="Elveda Dostum (1982)" ,Elveda Dostum (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283363.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ng2KyN5Pw1MQwBEH6dtjmM72Id3.jpg" tvg-name="Emine (1971)" ,Emine (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283364.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xLyQd3xBY1T2mYueSB6krOUeoa.jpg" tvg-name="Enayi (1974)" ,Enayi (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283365.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44BrdCZyDCvSuP4HNwAdnD1UY54.jpg" tvg-name="Endişe (1974)" ,Endişe (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283366.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFLkoR5bBZlz8wXHVoHZyYHzNIj.jpg" tvg-name="Erkek Güzeli Sefil Bilo (1979)" ,Erkek Güzeli Sefil Bilo (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283368.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/e/Essek-Oglum-Ve-Ben-1297515426.jpg" tvg-name="Eşek Oglum ve Ben (1986)" ,Eşek Oglum ve Ben (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283371.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKmAGhaRSdtdDcaxOr0YGkz5kh7.jpg" tvg-name="Eşrefpaşalı (1966)" ,Eşrefpaşalı (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283372.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFhODY3NjUtNDExNy00MDliLWJiMTMtZTYzZTUwNmQwMTdjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_.jpg" tvg-name="Akma Tuna / Estergon Kalesi (1973)" ,Akma Tuna / Estergon Kalesi (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283373.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us1M6UBJx76P5S3ZvYKGz77BqNg.jpg" tvg-name="Evlat (1972)" ,Evlat (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283374.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl9aXsIzYJBIcYXOEVwC29VVrae.jpg" tvg-name="Evlidir Ne Yapsa Yeridir (1978)" ,Evlidir Ne Yapsa Yeridir (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283376.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgUq31Hr18tw172rNERUPd5fCmR.jpg" tvg-name="Ezo Gelin (1973)" ,Ezo Gelin (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283377.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxm8ZbPpEf2eVKzq06A44raompF.jpg" tvg-name="Fatoş Sokakların Meleği (1971)" ,Fatoş Sokakların Meleği (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283378.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ6rMzjPNyvjfqYAyszn16KH35J.jpg" tvg-name="Feride (2020)" ,Feride (2020)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283379.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FBOVoBOm08a00rSEfJH5s6lqq.jpg" tvg-name="Feryada Gücüm Yok (1981)" ,Feryada Gücüm Yok (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283380.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZXLuoEW232xNAt2NrgFB69E8uX.jpg" tvg-name="Feryat (1973)" ,Feryat (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283381.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n3WDNvr3N1I0rCF8MekEXLzdUc.jpg" tvg-name="Firar (1984)" ,Firar (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283382.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fjv0AEO9HpXS8IdR25NYCwPqRt.jpg" tvg-name="Fırtına Kemal (1972)" ,Fırtına Kemal (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283383.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8eyqJ3svhtWgsiOT2GCAi2PwBX.jpg" tvg-name="Fıstık Gibi (1970)" ,Fıstık Gibi (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283384.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/au4YspqkmSJepuSYTPxWGHNR3Mr.jpg" tvg-name="Gazi Kadın (1973)" ,Gazi Kadın (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283387.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vysm1p5Yv6ilsHlwBwoLGWZ0Uc.jpg" tvg-name="Gelin (1973)" ,Gelin (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283388.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7wHEJTVsoOIXl7x8txGxR2rgUv.jpg" tvg-name="Gelincik (2020)" ,Gelincik (2020)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283389.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA2MThjNjktMTEzZC00OGY0LTkyNjktZGRhMzExZWFlZjZkXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg" tvg-name="Gelinlik Kızlar (1972)" ,Gelinlik Kızlar (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283390.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stvh1A3mj8NYyczE7RvwdtDRCo2.jpg" tvg-name="Genç Silahşörler (1988)" ,Genç Silahşörler (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283391.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei05DaYZ0aBAHDBnea9nq5Eofcv.jpg" tvg-name="Gırgıriye (1981)" ,Gırgıriye (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283393.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7SYRnYF4TQLJCG8eL4V2hjIATq.jpg" tvg-name="Göl (1982)" ,Göl (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283395.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qyYDgvQr4aC4jnZwEKGSbplDR.jpg" tvg-name="Gölge Oyunu (1992)" ,Gölge Oyunu (1992)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283397.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MH5jVcQNjsMZp8Eufvg5nNUy8k.jpg" tvg-name="Gönderilmemiş Mektuplar (2003)" ,Gönderilmemiş Mektuplar (2003)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283398.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8XMEbfgExJmBVSfGLAdyIN07l.jpg" tvg-name="Gönül Hırsızı (1972)" ,Gönül Hırsızı (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283399.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MXDdPzhc8gdVJ4RwVSTHjr4TC1.jpg" tvg-name="Görgüsüzler (1982)" ,Görgüsüzler (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283402.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liv9h4a4wDjaTOAAK0MCQZ1bcIk.jpg" tvg-name="Gülen Gözler (1977)" ,Gülen Gözler (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283404.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XlKlxnzIsKbZEKw2U37LsasUT.jpg" tvg-name="Güler misin Ağlar mısın (1975)" ,Güler misin Ağlar mısın (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283406.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tC0bFFWyBsm4I2Se1qYTyeAxRX.jpg" tvg-name="Gülizar (1972)" ,Gülizar (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283407.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp7crtjsklI4dpusgtU3uQLbril.jpg" tvg-name="Güllü Geliyor Güllü (1973)" ,Güllü Geliyor Güllü (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283408.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b6PgV3W0XsKWazLfJxBSy9NhiN.jpg" tvg-name="Günaha Girme (1982)" ,Günaha Girme (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283410.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MoBZ3ZVFLj21NfFCtvZK59J6Wy.jpg" tvg-name="Güneş Doğarken (1984)" ,Güneş Doğarken (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283412.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LzxvagxjSSLyMYksgIiwMqERkK.jpg" tvg-name="Güneşe Köprü (1986)" ,Güneşe Köprü (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283413.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlbJ2ksCusVkucSqyaG3hSyH5br.jpg" tvg-name="Gün Ortasında Karanlık (1990)" ,Gün Ortasında Karanlık (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283414.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLmP5jDECT2W8GyJN7Iec4RHCa.jpg" tvg-name="Güzel Şoför (1970)" ,Güzel Şoför (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283415.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrsEGB2stydJ8jQaoXCen5qmrV.jpg" tvg-name="Hamsi Nuri (1971)" ,Hamsi Nuri (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283417.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDJWFy2qlNHNXlngT5nsIHThKe.jpg" tvg-name="Hamza Dalar Osman Çalar (1977)" ,Hamza Dalar Osman Çalar (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283418.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NEkt6mHoDzGWkQrzhYDCljMeFQ.jpg" tvg-name="Hancı (1969)" ,Hancı (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283419.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJShfCJyvCwTdpdgP7zhNcbuglZ.jpg" tvg-name="Haram (1983)" ,Haram (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283422.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFG4azk7TGDybXukCPwhSrdeZjs.jpg" tvg-name="Haram (2014)" ,Haram (2014)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283423.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr9tD4bbPxOpY2aXYAtPAjiG8zL.jpg" tvg-name="Hasip ile Nasip (1976)" ,Hasip ile Nasip (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283424.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdKC7FzFXq5spRD0JiIwWkvHXX0.jpg" tvg-name="Hasret (1974)" ,Hasret (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283426.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryzHUyAFA6GJ6MzHDdcyxt8CqQT.jpg" tvg-name="Hayallerim, Aşkım ve Sen (1987)" ,Hayallerim, Aşkım ve Sen (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283427.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFUoZhuLSjdQgBAs7h0mke5Dkgi.jpg" tvg-name="Hayal Ülkesi (2014)" ,Hayal Ülkesi (2014)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283428.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIgBnPGNhQmLl6SG6wkAzfDJav0.jpg" tvg-name="Hayat Bayram Olsa (1973)" ,Hayat Bayram Olsa (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283430.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f62TA1Sf85Ej2S7mDCG8gU9xxT2.jpg" tvg-name="Hayat Bazen Tatlıdır (1962)" ,Hayat Bazen Tatlıdır (1962)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283431.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVwbQP3f4Cj6OpFI9pgNwgF5wgL.jpg" tvg-name="Hayatımızın En Güzel Yılları (1972)" ,Hayatımızın En Güzel Yılları (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283432.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNN2ftQM1jnq9qy4a4MFCtAfWeG.jpg" tvg-name="Hayat Sevince Güzel (1971)" ,Hayat Sevince Güzel (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283433.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9YLBy2KoJZgzP4RgdNWBcFvjva.jpg" tvg-name="Helal Adanalı Celal (1965)" ,Helal Adanalı Celal (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283436.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iVceOBF33hRx6f6fIS8bPHniAZ.jpg" tvg-name="Helal Olsun Ali Abi (1963)" ,Helal Olsun Ali Abi (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283437.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhJ9ZczSgIfVxAdA2VH1i1Lwkcd.jpg" tvg-name="Hep O Şarkı (1965)" ,Hep O Şarkı (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283438.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmJ1T3I6kuRny136s3V6JDve70j.jpg" tvg-name="Her Gönülde Bir Aslan Yatar (1976)" ,Her Gönülde Bir Aslan Yatar (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283440.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJeEnAhY8hRZ9T2YcuseV2F04rg.jpg" tvg-name="Herhangi Bir Kadın (1981)" ,Herhangi Bir Kadın (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283441.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UIz4nFUnjAM0mjUknnVK6yV81f.jpg" tvg-name="Her Şeye Rağmen (1988)" ,Her Şeye Rağmen (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283442.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdByAnupz0JI8CECO6x68t8lWDJ.jpg" tvg-name="Hindistan Cevizi (1967)" ,Hindistan Cevizi (1967)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283447.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qclyzXs8YCkTn71VQvXsSv6x3Wm.jpg" tvg-name="Hınç (1977)" ,Hınç (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283448.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQyZjE4NzktNzM3OS00YjE5LTg2OWYtYmZjNDc5NWJjMTViXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" tvg-name="Hırsız (1986)" ,Hırsız (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283449.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXE495dLlIzvnYGeGeBl03AZSNi.jpg" tvg-name="Hızır Dede (1964)" ,Hızır Dede (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283451.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKFh0kfzCXDp0DtoFg9UnhU74i4.jpg" tvg-name="Huzurum Kalmadı (1980)" ,Huzurum Kalmadı (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283455.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vIJAHzEda5riRlPAOzp6zQ51ql.jpg" tvg-name="İç Güveysi (1970)" ,İç Güveysi (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283457.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyijjfYK8cxwwFZ19gmVq54hKVU.jpg" tvg-name="İki Arkadaş (1976)" ,İki Arkadaş (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283458.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LOsQFQo5ZbcXAAKmQ42rViOtS9.jpg" tvg-name="İki Kızgın Adam (1976)" ,İki Kızgın Adam (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283459.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkuSCt5rEJmrc0hT8pPEFzlEjyR.jpg" tvg-name="İkizler (1985)" ,İkizler (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283460.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2OeHcN8XsstIN91wDA2VPWhpiI.jpg" tvg-name="İlişki (1983)" ,İlişki (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283461.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K5oLdobYEuJapfGqPKaRVcFeqx.jpg" tvg-name="İlk Göz Ağrısı (1963)" ,İlk Göz Ağrısı (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283462.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlMDAyYWQtMGIwYy00YTNlLTliNDQtYjc1ZmJjY2NkNjNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_FMjpg_UX1000_.jpg" tvg-name="ilk ve Son (1968)" ,ilk ve Son (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283463.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ncJ1Nm0CssZ6yFlmWlZkCaDYPp.jpg" tvg-name="İmparator (1984)" ,İmparator (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283464.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU5ZDQ0OWQtNjk2Mi00ZDdmLTk3M2YtMjZiNmMzYjEwNTQ3XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg" tvg-name="İnsanlar Yaşadıkça (1969)" ,İnsanlar Yaşadıkça (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283465.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgxMzMyMTMtNTYxYS00MTNiLTlhMTMtNWM0ZTNlZmFjMmIwXkEyXkFqcGdeQXVyNjYxNTg2NjE@._V1_FMjpg_UX1000_.jpg" tvg-name="işler Karışık (1970)" ,işler Karışık (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283472.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc699dBg1SN58ZqOSD3qDU3ltbz.jpg" tvg-name="İstanbul 79 (1979)" ,İstanbul 79 (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283473.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rcCGfFuEpOXFqdrH1sowDKEgxE.jpg" tvg-name="İşte Hayat (1975)" ,İşte Hayat (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283474.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6kgjAugYtsqwiP4tb4H0gzBQpg.jpg" tvg-name="İsyan (1979)" ,İsyan (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283475.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NgMZvlXgUGeRzjTiSs8wXnA1RL.jpg" tvg-name="Kader Bağlayınca (1976)" ,Kader Bağlayınca (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283482.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg5ZjdmOGEtYTVhMi00OTZmLTk2MzAtOWYyN2JlNzVkZWFkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjQxNTI2Mzg@._V1_FMjpg_UX1000_.jpg" tvg-name="Kaderimsin (1969)" ,Kaderimsin (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283483.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex3xBkC4hRpu7obc2PTfNBXALt2.jpg" tvg-name="Kadifeden Kesesi (1973)" ,Kadifeden Kesesi (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283485.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nY88kJIxDQBWCjseZ10IU8Rwvnh.jpg" tvg-name="Kadın Değil Baş Belası (1968)" ,Kadın Değil Baş Belası (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283486.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4vjNqv7AWbm083tHEC7CeHk0Gy.jpg" tvg-name="Kalbimin Efendisi (1970)" ,Kalbimin Efendisi (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283490.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfd1Q8Ut6FmHJB7W4C0zqv8wMAZ.jpg" tvg-name="Kaldırım Çiçeği (1969)" ,Kaldırım Çiçeği (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283491.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gqZOtzQrWmuUlFPysDgopP2LLq.jpg" tvg-name="Kalpaklılar (1959)" ,Kalpaklılar (1959)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283492.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTxk214ZhO2wEsH1zcG8Xd0J6Wz.jpg" tvg-name="Kambur (1973)" ,Kambur (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283493.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmJS97hzaSzoZfKAl6dlMvDpDHf.jpg" tvg-name="Kan (1977)" ,Kan (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283494.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WGtOTDOvWeV8HsoEggT97pjJHe.jpg" tvg-name="Kanlı Aşk (1969)" ,Kanlı Aşk (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283496.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UGtiGERRr19NF9ilJ1r1k272oc.jpg" tvg-name="Kanlı Para (1972)" ,Kanlı Para (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283497.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khrAGrchBcQNqoru5UQ7uQFJT8n.jpg" tvg-name="Kanun Benim (1966)" ,Kanun Benim (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283499.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4fMnVDGBI66OIO8oKYCH10Vl15.jpg" tvg-name="Kanun Gücü (1979)" ,Kanun Gücü (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283500.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1j0XEX8FSsImGXIAGovjdZ5BwJ.jpg" tvg-name="Kara Gün (1971)" ,Kara Gün (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283503.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://www.planetdp.org/titleimgs/big/kara-gozlum-5bf3477eecba5.jpg" tvg-name="Kara Gözlüm (1970)" ,Kara Gözlüm (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283504.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52kDLPPTSDd3XcMUyB9P9IhPliA.jpg" tvg-name="Karakolda Ayna Var (1966)" ,Karakolda Ayna Var (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283505.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTwZT52eeqOnqjywvkmtxfjbXuQ.jpg" tvg-name="Karılar Koğuşu (1990)" ,Karılar Koğuşu (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283506.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oXL0bh0ZQKjy1YzzQ8mBgBjVWh.jpg" tvg-name="Katiller de Ağlar (1966)" ,Katiller de Ağlar (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283510.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p9P5tdZcL6vbjBfdxFHjcD0lmy.jpg" tvg-name="Katırcılar (1987)" ,Katırcılar (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283511.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjvudbQcDqd5ICTTmFtTs8J90L1.jpg" tvg-name="Kavanoz Dipli Dünya (1971)" ,Kavanoz Dipli Dünya (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283512.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcYzK8OfBMNqigbkQ7qOjO6Fg3l.jpg" tvg-name="Kaynanatör (1976)" ,Kaynanatör (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283514.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sntOT7VKsxOb4K0MuU024relHAg.jpg" tvg-name="Kaçak (1982)" ,Kaçak (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283515.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dMl8JSPbtdnBzmiAbNrSNEZ7c7.jpg" tvg-name="Keloğlan Aramızda (1972)" ,Keloğlan Aramızda (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283516.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvZvUYCyPWLSDKv2w7AVq5xdyxL.jpg" tvg-name="Kendini Arayan Adam (1963)" ,Kendini Arayan Adam (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283518.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5LdhEEDSUwCZghVmZe36D79AZf.jpg" tvg-name="Kerem ile Aslı (1971)" ,Kerem ile Aslı (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283519.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meymWziIYGMvXiDfFC1Gce0ujC8.jpg" tvg-name="Keşanlı Ali Destanı (1964)" ,Keşanlı Ali Destanı (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283520.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BOv1qqES4hsFnct3Km8YGtHeNE.jpg" tvg-name="Kınalı Hanzo (1989)" ,Kınalı Hanzo (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283521.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG8PjjFW9Fc4JWMVOdXEg4oH8Et.jpg" tvg-name="Kırık Bir Aşk Hikayesi (1982)" ,Kırık Bir Aşk Hikayesi (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283522.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1Y4g3C6n5pBI9fIBZsPMRLmInk.jpg" tvg-name="Kırık Plak (1959)" ,Kırık Plak (1959)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283523.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6la8iZMCWtW9qFF2y9AoSFX5yBF.jpg" tvg-name="Kız Babası (2018)" ,Kız Babası (2018)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283525.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HHixVYm5CLKMSYd3nQDTx42tfy.jpg" tvg-name="Kızıl Vazo (1969)" ,Kızıl Vazo (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283526.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKFL5gGkTGt1WxLybjl6WV9bt2G.jpg" tvg-name="Kız Kolunda Damga Var (1967)" ,Kız Kolunda Damga Var (1967)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283527.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odpvh6rmU9vgfOdc5sCOwSXoW5G.jpg" tvg-name="Kızlar Sınıfı (1984)" ,Kızlar Sınıfı (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283528.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfklI0hDNy8gY5P3VwyXz6lh8Dm.jpg" tvg-name="Köfteci Holding (1985)" ,Köfteci Holding (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283529.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rBwb9D7Tu8iiLaaVgluzmuK5aX.jpg" tvg-name="Komşunun Tavuğu (1965)" ,Komşunun Tavuğu (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283530.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/989Oxqdu2rigr0oPDJ31BIlwj1g.jpg" tvg-name="Köprü (1975)" ,Köprü (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283531.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIsn4kQjbAFypwrU8ZVZSKFFPe0.jpg" tvg-name="Korkusuz Aşıklar (1972)" ,Korkusuz Aşıklar (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283532.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajbztW5OTnmNHRg4adsnuRB9mA2.jpg" tvg-name="Korkusuz Cengâver (1976)" ,Korkusuz Cengâver (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283533.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEjAFazwC8B6Dle0Abpb6mLuNRN.jpg" tvg-name="Köşe Kapmaca (1979)" ,Köşe Kapmaca (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283535.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" tvg-name="Köyden İndim Şehire (1974)" ,Köyden İndim Şehire (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283536.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrsmWch8pxcfz7RAEQFob123zpO.jpg" tvg-name="Köçek (1975)" ,Köçek (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283537.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daKZmVgLlDwuO9sSRwevvh8alaS.jpg" tvg-name="Kralın Seçimi (2016)" ,Kralın Seçimi (2016)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283538.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNZxjsJwmKorpPvd0kquJffYROr.jpg" tvg-name="Küçük Hanım (2018)" ,Küçük Hanım (2018)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283539.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVJnAFKOA0WlLGnbdGR2CM0wE7R.jpg" tvg-name="Kurbağalar (1985)" ,Kurbağalar (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283540.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nx7PhuDIuk0mBrdjZhxXNec35IH.jpg" tvg-name="Kurşun Adres Sormaz (1992)" ,Kurşun Adres Sormaz (1992)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283541.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZmRhNTctMWEyOC00MzczLWEwODgtZGNlNGE5ZjNhMGEyXkEyXkFqcGdeQXVyMjM5NDM1MTE@._V1_FMjpg_UX1000_.jpg" tvg-name="Küçük Bey (1975)" ,Küçük Bey (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283544.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WFrXxOV51pLGeXRgB47xEsYyT.jpg" tvg-name="Küçük Hanımefendi (1961)" ,Küçük Hanımefendi (1961)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283545.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZhq59NgaWNayTwqlgpc89z18sa.jpg" tvg-name="Küçük Hanımın Kısmeti (1962)" ,Küçük Hanımın Kısmeti (1962)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283546.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bB8RwPjuZWo0k4pW4Ltpvm3rf2c.jpg" tvg-name="Küçük Hanımın Şoförü (1962)" ,Küçük Hanımın Şoförü (1962)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283547.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfr3EtfPHnQToqLNfiFd785TJRU.jpg" tvg-name="Leyla ile Mecnun (1983)" ,Leyla ile Mecnun (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283550.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKxwskbEQSdHwexIkPYziCAzS0S.jpg" tvg-name="Maceralar Kralı (1963)" ,Maceralar Kralı (1963)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283553.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wCqT0Y7ux388dwpcBl71gPNLvD.jpg" tvg-name="Maden (1978)" ,Maden (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283554.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kttbGlhdwMt5IsN4HKsO75z9tWU.jpg" tvg-name="Mahcup Delikanlı (1974)" ,Mahcup Delikanlı (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283555.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bknx75oPNrYQzkdrXNBBtDD9TAZ.jpg" tvg-name="Malkoçoğlu: Akıncılar Geliyor (1969)" ,Malkoçoğlu: Akıncılar Geliyor (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283556.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBly2cLy5z8Cbrd0a42CLskOluV.jpg" tvg-name="Malkoçoğlu: Ölüm Fedaileri (1972)" ,Malkoçoğlu: Ölüm Fedaileri (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283557.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3TwwVyCSA7Y1npm0T1ck18hBQ.jpg" tvg-name="Malkoçoğlu ve Cem Sultan (1970)" ,Malkoçoğlu ve Cem Sultan (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283558.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Br5HATYkduRWw0BPt2oAptlDV9.jpg" tvg-name="Meçhul Kadın (1970)" ,Meçhul Kadın (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283562.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7B2SsuiUpBbhVa72Q24v1W3lPWk.jpg" tvg-name="Medcezir Manzaraları (1989)" ,Medcezir Manzaraları (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283563.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rv9dlC61HQAXx7wYOdskO7CmnK.jpg" tvg-name="Memleketim (1974)" ,Memleketim (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283564.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDEUkPGaXhgWmhf5ZYZrfoFF1Mk.jpg" tvg-name="Menekşe Gözler (1969)" ,Menekşe Gözler (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283565.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI0XYzgX9xZyBqTjQSvKqLkTq93.jpg" tvg-name="Milyarder (1986)" ,Milyarder (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283566.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6asU8TjHqwboEgdx8ZzxjpYgS.jpg" tvg-name="Mirasyediler (1974)" ,Mirasyediler (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283567.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZmZjBmY2ItMWEzMy00NjAxLWI4MjEtYTUwOTNhODQ3ZTI1XkEyXkFqcGdeQXVyNDA0NjY3Mzc@._V1_.jpg" tvg-name="Muhabbet Kuşu (1969)" ,Muhabbet Kuşu (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283569.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzEou8fTrJ3w9mqebiUfHuXPpfN.jpg" tvg-name="Muhsin Bey (1987)" ,Muhsin Bey (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283570.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1j4EkIkOrA4PLiuuukLMXZ2Uah.jpg" tvg-name="Murat ile Nazlı (1972)" ,Murat ile Nazlı (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283571.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgIWxS14Ds4QrtwSF4IQDG9ep0s.jpg" tvg-name="Namus Düşmanı (1986)" ,Namus Düşmanı (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283573.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz1aTvWD013BpGKwF50aOszsdHa.jpg" tvg-name="Namuslu (1984)" ,Namuslu (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283574.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsd7KIhFwTTZpQClKH1DZ29YYb8.jpg" tvg-name="Nefret (1984)" ,Nefret (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283577.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uB9HBLqc9FVnHTHvy3mlqRuER8.jpg" tvg-name="Ne Hakem (1974)" ,Ne Hakem (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283578.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmKDoPjNgOWdMbHISa2rp6NtAEa.jpg" tvg-name="Ne Olacak Şimdi (1979)" ,Ne Olacak Şimdi (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283579.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoyvqsgfC0OdVJrDrnTVrv5eDr5.jpg" tvg-name="Nereden Çıktı Bu Velet (1975)" ,Nereden Çıktı Bu Velet (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283581.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snXXbIxpQgNDXC5O7M8SvVRhVTp.jpg" tvg-name="Nereye Bakıyor Bu Adamlar (1976)" ,Nereye Bakıyor Bu Adamlar (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283583.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4ITmv37BTDYqIe6H3Kh1epBVi9.jpg" tvg-name="Neşeli Günler (1978)" ,Neşeli Günler (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283584.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnYRp7y2ZFiEAaF5kL6sLaMkt4w.jpg" tvg-name="Ne Umduk Ne Bulduk (1976)" ,Ne Umduk Ne Bulduk (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283585.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6OTFDkrualNdEDRyqypbgqsxJ.jpg" tvg-name="Öğretmen Kemal (1981)" ,Öğretmen Kemal (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283588.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" tvg-name="Oh Olsun (1973)" ,Oh Olsun (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283589.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsAMMv5lZElhmkYDb2t2pZi3qfy.jpg" tvg-name="Ölmüş Bir Kadının Mektupları (1969)" ,Ölmüş Bir Kadının Mektupları (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283591.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WzvearRdtKkHTxJOS5mkhkm1c.jpg" tvg-name="Ölüm Yolu (1985)" ,Ölüm Yolu (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283593.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM1OTM0YjMtMjM0NS00YTY5LThkZmYtODM1NjBmYWMxNTMzL2ltYWdlXkEyXkFqcGdeQXVyNjkzNDQ5MTg@._V1_FMjpg_UX1000_.jpg" tvg-name="Ölüme Koşanlar (1973)" ,Ölüme Koşanlar (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283594.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4S5xyGAYTINQttRgWPtNZFPNBwj.jpg" tvg-name="Osmanlı Kartalı (1969)" ,Osmanlı Kartalı (1969)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283599.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7i9wuR6Q8abyX7l1vd3WUHKNK7e.jpg" tvg-name="Öyle Olsun (1976)" ,Öyle Olsun (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283600.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mh1HR40cS0Sxk7Tjbg9hU8mNGzK.jpg" tvg-name="Oyun Bitti (1972)" ,Oyun Bitti (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283601.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2OWMzNjQtOThmOC00NGVjLTk4M2UtYzY2ODhhMTU0NGEwXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_FMjpg_UX1000_.jpg" tvg-name="Pantalon Bankasi (1965)" ,Pantalon Bankasi (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283603.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFZ79aE2jSDcCKsY0s5cExfGxR4.jpg" tvg-name="Paydos (1968)" ,Paydos (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283607.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51VXzeU1kvW3qVtIOpUHTuKkl9v.jpg" tvg-name="Petrol Kralları (1978)" ,Petrol Kralları (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283608.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qX7t0vFeof9NbOSnqwp8yq49lX.jpg" tvg-name="Pir Sultan Abdal (1973)" ,Pir Sultan Abdal (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283610.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEZUbAe2NmEbKxmatxFjeeAQf78.jpg" tvg-name="Pisi Pisi (1975)" ,Pisi Pisi (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283611.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz7eV5ZoByrz4nmKp2S6wtkPv8f.jpg" tvg-name="Reis Bey (1990)" ,Reis Bey (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283613.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qTRuqVHzR04kZOwjuFpNgDn2pO.jpg" tvg-name="Rus Gelin (2003)" ,Rus Gelin (2003)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283616.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkBiu1zJlPC0NDBiY5QffRvpp9k.jpg" tvg-name="Şafakta Buluşalım (1975)" ,Şafakta Buluşalım (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283617.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daxTixZs8mFlUrAM89CdVgbq6lF.jpg" tvg-name="Sahipsizler (1974)" ,Sahipsizler (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283618.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBxVyONCOoPhzCnddosgW9wmZK4.jpg" tvg-name="Şaka ile Karışık (1965)" ,Şaka ile Karışık (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283619.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSFPjntI0qYfgR006zOeI4kJyhU.jpg" tvg-name="Şaka Yapma (1981)" ,Şaka Yapma (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283621.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoAGm7M5qypMTf90iB3kR153ag.jpg" tvg-name="Salak Milyoner (1974)" ,Salak Milyoner (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283623.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40U0zAsZUB6Prjr2Zlmmz3Lty7w.jpg" tvg-name="Şalvar Bank (1986)" ,Şalvar Bank (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283624.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54Df5Uiuz2QjjNqsjnaA9jSE1qt.jpg" tvg-name="Şalvar Davası (1983)" ,Şalvar Davası (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283625.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTswVebkpCOipPlmzpLIfmQEENl.jpg" tvg-name="Sana Layık Değilim (1965)" ,Sana Layık Değilim (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283626.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiqPihy5K7KKSWOsQWq1DxC1OGd.jpg" tvg-name="Sarı Öküz Parası (1985)" ,Sarı Öküz Parası (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283627.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDbgQQPVzFRDNbz7R4dcgcCET9L.jpg" tvg-name="Şaşkın Ördek (1983)" ,Şaşkın Ördek (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283628.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chlmx7I8XwmNMZ6z3gHTCMJitDL.jpg" tvg-name="Savulun Battal Gazi Geliyor (1973)" ,Savulun Battal Gazi Geliyor (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283631.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYxwg0ZTvAVmjMK57YbaT9NU2eQ.jpg" tvg-name="Sayın Başkan (1990)" ,Sayın Başkan (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283632.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEGSq8lAdiNAnEpjjlQouz0CRKE.jpg" tvg-name="Şekerpare (1983)" ,Şekerpare (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283633.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69UzPKFwpHiqGEK3fPEq00NiltC.jpg" tvg-name="Sekreter (1985)" ,Sekreter (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283634.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r00yDAQ5iHAnKmmhJIWko5mVrwn.jpg" tvg-name="Selamsız Bandosu (1987)" ,Selamsız Bandosu (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283635.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6lJj1RUKFiKz62DZ7UpxUaUh2Y.jpg" tvg-name="Selvi Boylum Al Yazmalım (1977)" ,Selvi Boylum Al Yazmalım (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283636.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gBUAE4aLsrNohk4eQt3OIGPo80.jpg" tvg-name="Senede Bir Gün (1965)" ,Senede Bir Gün (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283637.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55xuw1W4Vyrie2mYKOI9j6PaXu7.jpg" tvg-name="Sen Türkülerini Söyle (1986)" ,Sen Türkülerini Söyle (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283638.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smQiwGTjqkIcxXxyAlD5gO3w8yO.jpg" tvg-name="Serseri Aşık (1965)" ,Serseri Aşık (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283640.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk60ioJVVdqtGTdkQcGzQCrSBT.jpg" tvg-name="Serseriler Kralı (1967)" ,Serseriler Kralı (1967)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283641.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://i.hizliresim.com/Y468QZ.png" tvg-name="Sevdiğim Uşak (1971)" ,Sevdiğim Uşak (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283642.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqklogMjQFVYEFPXD8TILwFic2z.jpg" tvg-name="Sevgi Çıkmazı (1986)" ,Sevgi Çıkmazı (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283644.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zKwxysXAuaJFZYiypOgU1xtqwK.jpg" tvg-name="Sevgili Hocam (1972)" ,Sevgili Hocam (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283645.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ9XoCinsskRqTn5lDBfz3Bd0ht.jpg" tvg-name="Seviştiğimiz Günler (1961)" ,Seviştiğimiz Günler (1961)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283646.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbhhEYKG3zb9SfAtijJ565qppV2.jpg" tvg-name="Sev Kardeşim (1972)" ,Sev Kardeşim (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283647.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnxQh9E0SlkbLAs9Hony5eRpSiG.jpg" tvg-name="Seyyit Han (1968)" ,Seyyit Han (1968)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283648.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9IlAQcDXySBEuKP8afsG2Dq4ZX.jpg" tvg-name="Sinderella Külkedisi (1971)" ,Sinderella Külkedisi (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283650.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xamWO8AGDZTEBqR4oDS8JntYc0Y.jpg" tvg-name="Sinema Bir Mucizedir (2005)" ,Sinema Bir Mucizedir (2005)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283651.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgojE4PmkhuwJHIHHgdqLJIdC7F.jpg" tvg-name="Sıralardaki Heyecan (1976)" ,Sıralardaki Heyecan (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283652.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWV8X9clnpRhQMdia8swIVrV0Ki.jpg" tvg-name="Sivri Akıllılar (1977)" ,Sivri Akıllılar (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283653.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPeLClX8bGHwPvTns4Rq29bGKzW.jpg" tvg-name="Şoför Deyip Geçmeyin (1966)" ,Şoför Deyip Geçmeyin (1966)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283654.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdgyqFLJBMMcCWYz6icASIr44Of.jpg" tvg-name="Şoför Nebahat (1970)" ,Şoför Nebahat (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283655.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD319aIE43bICnlbBe75oGM4NSt.jpg" tvg-name="Sokakların Kanunu (1986)" ,Sokakların Kanunu (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283656.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvEsoFkUmXP7ZxDETzIKnb8ReDS.jpg" tvg-name="Son Beste (1955)" ,Son Beste (1955)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283657.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTNfEYBXip9JFaSMM8B9qKYnsMV.jpg" tvg-name="Son Cellat (2008)" ,Son Cellat (2008)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283658.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsgz3tiiqXWnnM6AXVnyLTvHx5w.jpg" tvg-name="Son Hıçkırık (1971)" ,Son Hıçkırık (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283659.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/88/Son_K%C4%B1zg%C4%B1n_Adam_Y.G%C3%BCney_afi%C5%9F.jpg" tvg-name="Son Kızgın Adam (1970)" ,Son Kızgın Adam (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283660.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGCA2c6eWEzu3ym5ah5Pw6dX5vR.jpg" tvg-name="Son Kuşlar (2016)" ,Son Kuşlar (2016)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283661.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69cRxUMPZoFeqQ8sCMqybui7Yna.jpg" tvg-name="Soytarı (1965)" ,Soytarı (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283663.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvfp8k0x2BC2M2qOcZxmFiEk4Sn.jpg" tvg-name="Sultan (1978)" ,Sultan (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283664.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LB4Sg7yDEXVKt3QqpmNd8fl2lD.jpg" tvg-name="Sultan Gelin (1973)" ,Sultan Gelin (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283665.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOdUDqFe1KxMtoHlYyg7cCTgbuB.jpg" tvg-name="Sürtük (1965)" ,Sürtük (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283666.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b54tNyKjJP8AY7ehjGOKFvPCsiH.jpg" tvg-name="Sürtük (1970)" ,Sürtük (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283667.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1ggP9sQBAGDpg9MIbfL0vFFV1w.jpg" tvg-name="Sürü (1979)" ,Sürü (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283668.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyIhJGvuRoQEGNkVMgdS7U1LEnK.jpg" tvg-name="Talihli Amele (1980)" ,Talihli Amele (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283670.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvzX4IQmZAilctkcIFlEbDEDQY.jpg" tvg-name="Tarkan: Gümüş Eyer (1970)" ,Tarkan: Gümüş Eyer (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283671.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ5Qi2TkpFzL7iH0I31Ol2ZI99n.jpg" tvg-name="Tarkan: Güçlü Kahraman (1973)" ,Tarkan: Güçlü Kahraman (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283672.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oylYMq8a4qKukdo9avxEHh27mD.jpg" tvg-name="Taşı Toprağı Altın Şehir (1978)" ,Taşı Toprağı Altın Şehir (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283673.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZkZTkyMjAtODQ5My00MzZmLWIxZTItNmZmYTI4ZmJhNzE0XkEyXkFqcGdeQXVyNzI1NDQ3NTQ@._V1_UY1200_CR89,0,630,1200_AL_.jpg" tvg-name="Taşralı Kız (1964)" ,Taşralı Kız (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283674.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKm9CWtpQ2LVAHa6RKOgkCOh0uY.jpg" tvg-name="Tatar Ramazan (1990)" ,Tatar Ramazan (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283675.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vop3WXH8dEZx9H5thO9BEZIjVBM.jpg" tvg-name="Tatar Ramazan Sürgünde (1992)" ,Tatar Ramazan Sürgünde (1992)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283676.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opIbQdR6dtZYLTbgIDzRQpWR5zl.jpg" tvg-name="Tatlı Dillim (1972)" ,Tatlı Dillim (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283677.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI2MSJ6neNkBARYV1o9P7Rl8Fkr.jpg" tvg-name="Tatlı Hayal (1970)" ,Tatlı Hayal (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283678.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tMQuPPit5Ldvb5kCyfwMssPnUg.jpg" tvg-name="Tatlim benim (1975)" ,Tatlim benim (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283679.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47KlP7vTdAh9ZTlZ6c30iA4zWnj.jpg" tvg-name="Taçsız Kral (1965)" ,Taçsız Kral (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283680.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IQJ5OksQp4YxJjNkVjfWINNNa6.jpg" tvg-name="Tomruk (1982)" ,Tomruk (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283700.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4e4dPk2HlL0H4rP4XRtxFaVO4B.jpg" tvg-name="Toto Kralı (1971)" ,Toto Kralı (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283701.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7IW2vGiy1d3RU4ITdS9SjAeaRZ.jpg" tvg-name="Turist Ömer (1964)" ,Turist Ömer (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283702.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNQ5erPTlvd5syGqBy9uSO9dDSf.jpg" tvg-name="Turist Ömer Boğa Güreşçisi (1971)" ,Turist Ömer Boğa Güreşçisi (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283703.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4aI2BTJNJ4FF8uq9cfjGXxW5FA.jpg" tvg-name="Turist Ömer Yamyamlar Arasında (1970)" ,Turist Ömer Yamyamlar Arasında (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283704.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBCETLPR6aOmv1niysqm8fcP2wU.jpg" tvg-name="Tutku (1984)" ,Tutku (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283705.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2Iag9rlLsMHB0h7TFs5Lr96G0a.jpg" tvg-name="Tövbekar (1977)" ,Tövbekar (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283707.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpHQBbUNAPj0e83me1DRT4FV9RP.jpg" tvg-name="Umut (1970)" ,Umut (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283709.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2TCHG3nc9B9KsIpWF2WtADyaoa.jpg" tvg-name="Umut Sokağı (1986)" ,Umut Sokağı (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283711.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yio91pzzJW3PmLiDkXNi45gu9Aj.jpg" tvg-name="Üvey Ana (1971)" ,Üvey Ana (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283714.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8dLchw0IzzRJiC8o8ph7cLJxa5.jpg" tvg-name="Uyanık Kardeşler (1974)" ,Uyanık Kardeşler (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283715.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phNzkZ5mcB3pPRSpE6OUZe8fKoR.jpg" tvg-name="Üç Arkadaş (1958)" ,Üç Arkadaş (1958)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283717.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqCE7QB4xhDeSjGvl3LOxROC6Jn.jpg" tvg-name="Üç Arkadaş (1971)" ,Üç Arkadaş (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283718.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chEqTLissCdj0xmEIHvWvoyuZ4q.jpg" tvg-name="Üç Kağıtçılar (1976)" ,Üç Kağıtçılar (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283719.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2GYQUs6KaCCCu4zex1wY3Bnsbd.jpg" tvg-name="Üç Kardeşe Bir Gelin (1965)" ,Üç Kardeşe Bir Gelin (1965)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283720.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6E3p7EdX7NVey2haH23FXY4njnP.jpg" tvg-name="Uçurtmayı Vurmasınlar (1989)" ,Uçurtmayı Vurmasınlar (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283721.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pC1qUMdquWMSxGe1gxOa3juvr.jpg" tvg-name="Vahşi Gelin (1978)" ,Vahşi Gelin (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283723.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpNS4FdXeQly0EhWkrYmx3nTbpx.jpg" tvg-name="Vay Başımıza Gelenler (1979)" ,Vay Başımıza Gelenler (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283728.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oDaBQ0D06uYK9W3XgCMKTaKkgM.jpg" tvg-name="Vurun Kahpeye (1973)" ,Vurun Kahpeye (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283730.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fjT62AIEAavZmRzNWQs14Fmu6l.jpg" tvg-name="Yalancı Yarim (1973)" ,Yalancı Yarim (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283733.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CuIlgfhPI9Xpl0Wkrdmv62BtTM.jpg" tvg-name="Yanlış Numara (1985)" ,Yanlış Numara (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283734.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sib12QDC9qRPerbb75bsN0SOYDF.jpg" tvg-name="Yarım Kalan Saadet (1970)" ,Yarım Kalan Saadet (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283735.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmZKAaxPTeg64mB7cpjb60iKyAx.jpg" tvg-name="Yarın Yarın (1987)" ,Yarın Yarın (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283736.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ODET8DnIgCIDJRUvasv0CdLiQX.jpg" tvg-name="Yatak Hikayesi (1975)" ,Yatak Hikayesi (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283737.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghpUPe98nCfj65o053HpACsIpm3.jpg" tvg-name="Yedi Evlat İki Damat (1973)" ,Yedi Evlat İki Damat (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283738.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufpazUvHMFbenAltkJM7Ym2PB3O.jpg" tvg-name="Yılanların Öcü (1985)" ,Yılanların Öcü (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283739.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkP9WhDHsmyk4OESZe8uJgLsP2L.jpg" tvg-name="Yırtık Niyazi (1971)" ,Yırtık Niyazi (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283740.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UaAS707iiNxoH7bDAx26crZxyy.jpg" tvg-name="Yol (1982)" ,Yol (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283741.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dISfgG12zEwL2A8uj810xI99IE.jpg" tvg-name="Yumurcak Köprüaltı Çocuğu (1970)" ,Yumurcak Köprüaltı Çocuğu (1970)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283746.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE64lyySlMzbcsep8fzOiaQCT5H.jpg" tvg-name="Zavallılar (1974)" ,Zavallılar (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283748.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihdZ8N7eRArcY74jmoopR6SfnXc.jpg" tvg-name="Zehra (1972)" ,Zehra (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283749.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVxLFzasmeStyBIswVaPC8xkTPR.jpg" tvg-name="Zengin Mutfağı (1988)" ,Zengin Mutfağı (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283750.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFrGNbWLVEGTCjT09QsJDDpQl18.jpg" tvg-name="Züğürt Ağa (1985)" ,Züğürt Ağa (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283752.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmRXqXgyCbuC50mAs2Q32wdUjxO.jpg" tvg-name="Zübük (1980)" ,Zübük (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283753.avi
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTwXf8CiQfSRI0hXi2wwX4rnciC.jpg" tvg-name="Çeşme (1977)" ,Çeşme (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283754.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJxEvPQctF7GMpn3mmKJCmlJTW.jpg" tvg-name="Çile (1972)" ,Çile (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283755.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45svL4zL4fhnDUae9C6OhydPCMb.jpg" tvg-name="Çılgın Yenge (1972)" ,Çılgın Yenge (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283756.mp4
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkmxrd3iKWBAzHc9gp9QKNr1fq.jpg" tvg-name="Çil Horoz (1986)" ,Çil Horoz (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283757.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYEv1BHssjFTgUDGv4nXxsDQUo.jpg" tvg-name="Çıplak Vatandaş (1985)" ,Çıplak Vatandaş (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283758.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K1uRlVl2P5aQP68tOov4UCCRvA.jpg" tvg-name="Çirkinler de Sever (1981)" ,Çirkinler de Sever (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283759.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqPX758AtUanPnV0d3TCjpaxG3H.jpg" tvg-name="Çiçek Abbas (1982)" ,Çiçek Abbas (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283760.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qa5tSXkF1DFQ0NyjSru0ouNrsdT.jpg" tvg-name="Çöl Kartalı (1972)" ,Çöl Kartalı (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/283761.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZNIW2urLyFSSzNMykE8Mhg4mkd.jpg" tvg-name="Ağır Roman (1997)" ,Ağır Roman (1997)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/340531.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1vWL9iaZwPdIxHmhsaZ0FaFLTv.jpg" tvg-name="Atçalı Kel Mehmet (1964)" ,Atçalı Kel Mehmet (1964)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/404803.mkv
+#EXTINF:-1 group-title="TR | YESILCAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMyaQ8RWCgMvmk7sdjxhREJiTpG.jpg" tvg-name="Yaşar Ne Yaşar Ne Yaşamaz (1975)" ,Yaşar Ne Yaşar Ne Yaşamaz (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/287093.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS0YNNja03bYy62V6Sg0sAeHTUC.jpg" tvg-name="Abuk Sabuk Bir Film (1990)" ,Abuk Sabuk Bir Film (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285542.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aKakykUVDoHDhpYbeTaN3l0Hd7.jpg" tvg-name="Atla Gel Şaban (1984)" ,Atla Gel Şaban (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285543.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" tvg-name="Canım Kardeşim (1973)" ,Canım Kardeşim (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285544.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsxt2inqv3z0aTBKAMhVfptra0w.jpg" tvg-name="Çarıklı Milyoner (1983)" ,Çarıklı Milyoner (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285545.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NaOyliycB7vHTvyLFUxhVbPa8.jpg" tvg-name="Çöpçüler Kralı (1977)" ,Çöpçüler Kralı (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285546.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYQ8iROTDsIMAYXubrjPgUZfLMT.jpg" tvg-name="Davacı (1986)" ,Davacı (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285547.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ccohyzPylTYLOgaSC067TcPhZx.jpg" tvg-name="Davaro (1981)" ,Davaro (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285548.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" tvg-name="Deli Deli Küpeli (1986)" ,Deli Deli Küpeli (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285549.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGVUhprj37iXoSEK4MtzJKd2vRi.jpg" tvg-name="Devlet Kuşu (1980)" ,Devlet Kuşu (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285550.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeaocfWyVGYHrTmvbJoWW68yNg.jpg" tvg-name="Doktor Civanım (1983)" ,Doktor Civanım (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285551.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPrNDNpEinSjYgylk1Lk5HHPlMd.jpg" tvg-name="Dokunmayın Şabanıma (1979)" ,Dokunmayın Şabanıma (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285552.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg" tvg-name="En Büyük Şaban (1983)" ,En Büyük Şaban (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285553.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beRuuXKvZPXDQtV8GugVcHKQ2li.jpg" tvg-name="Garip (1986)" ,Garip (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285554.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IBVcS5swjGTzjq3VcXwQsC0YRK.jpg" tvg-name="Gerzek Şaban (1980)" ,Gerzek Şaban (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285555.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG96RNb8OsBDylG6z4buabzSvfj.jpg" tvg-name="Gol Kralı (1980)" ,Gol Kralı (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285556.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" tvg-name="Gülen Adam (1989)" ,Gülen Adam (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285557.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sunrV0T3pg5jfVOBVDeLCo3ZcQ8.jpg" tvg-name="Gurbetçi Şaban (1985)" ,Gurbetçi Şaban (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285558.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg" tvg-name="Hababam Sınıfı (1975)" ,Hababam Sınıfı (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285559.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKXNkFVDWyOiZ4T4B8g4Ay88fIg.jpg" tvg-name="Hababam Sınıfı Sınıfta Kaldı (1975)" ,Hababam Sınıfı Sınıfta Kaldı (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285560.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukaCP6gln9scBg74nyUisY8kHkY.jpg" tvg-name="Hababam Sınıfı Uyanıyor (1976)" ,Hababam Sınıfı Uyanıyor (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285561.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3lKxO16uCOktLRiEhLilOSVEW.jpg" tvg-name="Hanzo (1975)" ,Hanzo (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285562.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHX0gPPguakEQvRpjEXYd2B2ZH.jpg" tvg-name="İbo ile Güllüşah (1977)" ,İbo ile Güllüşah (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285563.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im2RSRpkAisKAPCmQfrmYlgkOGt.jpg" tvg-name="İnatçı (1988)" ,İnatçı (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285564.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTj5YwUMDA0hrGPdfSI1GTXlCjJ.jpg" tvg-name="İnek Şaban (1979)" ,İnek Şaban (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285565.mp4
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td8P2cGQyGo3BoJu735mJUdK27N.jpg" tvg-name="İyi Aile Çocuğu (1978)" ,İyi Aile Çocuğu (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285566.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72M3gjz4l7dyF5qehkLhp23jgKi.jpg" tvg-name="Japon İşi (1987)" ,Japon İşi (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285567.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek383GmCLK36mZ88hwO1rIcK6d3.jpg" tvg-name="Kanlı Nigar (1981)" ,Kanlı Nigar (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285568.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6crkhzvpEZTcpMXMSwL6LjWj4TK.jpg" tvg-name="Katma Değer Şaban (1985)" ,Katma Değer Şaban (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285569.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CX6Za52zETO0eQFYCb7uQLqoEI.jpg" tvg-name="Keriz (1985)" ,Keriz (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285570.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxj2urB0xe4RuP0C4q1rVX1B8gl.jpg" tvg-name="Kibar Feyzo (1978)" ,Kibar Feyzo (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285571.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72z18mtsO5KXg09bM4Fl0kkvJBI.jpg" tvg-name="Kılıbık (1983)" ,Kılıbık (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285572.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ2JqfrskCV5NJjgtZQsEq8Oadi.jpg" tvg-name="Kiracı (1987)" ,Kiracı (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285573.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR425RObdzPwgCqoztt0xtJfnDz.jpg" tvg-name="Koltuk Belası (1990)" ,Koltuk Belası (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285574.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFMJzGl6PGq7vag7ahFVwwEiKn1.jpg" tvg-name="Köşeyi Dönen Adam (1978)" ,Köşeyi Dönen Adam (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285575.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" tvg-name="Köyden İndim Şehire (1974)" ,Köyden İndim Şehire (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285576.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCv7LK3akjUlHSjfmYwfgRcxZ5w.jpg" tvg-name="Kapıcılar Kralı (1976)" ,Kapıcılar Kralı (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285577.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlHoERoHtfbt9WkmRG8ZSISKoUq.jpg" tvg-name="Meraklı Köfteci (1976)" ,Meraklı Köfteci (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285578.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SsMr98c5anLa0k5qJUKHVjmObQ.jpg" tvg-name="Öğretmen (1988)" ,Öğretmen (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285579.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" tvg-name="Oh Olsun (1973)" ,Oh Olsun (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285580.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPTmbz9QhXpXSmw7ur2PTWnFWQ.jpg" tvg-name="Ortadirek Şaban (1984)" ,Ortadirek Şaban (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285581.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGS2meY28LK28RT7f5SsSt4X9X.jpg" tvg-name="Polizei (1988)" ,Polizei (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285582.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" tvg-name="Postacı (1984)" ,Postacı (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285583.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYrBGUaNTsrMjxcPoNvo4quEeL.jpg" tvg-name="Şaban Oğlu Şaban (1977)" ,Şaban Oğlu Şaban (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285584.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhgrGAEOfx4mDzFSPdEYWIn1fFu.jpg" tvg-name="Şaban Pabucu Yarım (1985)" ,Şaban Pabucu Yarım (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285585.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpO9mXwIIyGuFnHaSR8dx37DY4r.jpg" tvg-name="Şabaniye (1984)" ,Şabaniye (1984)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285586.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXwshs84aQ2YKNEFDbXJ0f9K83x.jpg" tvg-name="Sahte Kabadayı (1976)" ,Sahte Kabadayı (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285587.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0r9iwArchSBhz4ijRwqP6ns8g.jpg" tvg-name="Sakar Şakir (1977)" ,Sakar Şakir (1977)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285588.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoAGm7M5qypMTf90iB3kR153ag.jpg" tvg-name="Salak Milyoner (1974)" ,Salak Milyoner (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285589.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KySkA5sCUnXp49DRKNmY0ythZc.jpg" tvg-name="Salako (1974)" ,Salako (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285590.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2o9n0nNGN6qenKHz5SZOGkucbd.jpg" tvg-name="Şark Bülbülü (1979)" ,Şark Bülbülü (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285591.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f0vEoj3mqLydYEVnHpVuS8AAYX.jpg" tvg-name="Şaşkın Damat (1975)" ,Şaşkın Damat (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285592.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWZ743e8uCkTMTFzZ736vNjfmsF.jpg" tvg-name="Şendul Şaban (1985)" ,Şendul Şaban (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285593.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ij2i94WbADNavi7tbr5GbOCHU.jpg" tvg-name="Sevimli Hırsız (1988)" ,Sevimli Hırsız (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285594.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1QsojGGoKQeAvU4KK79L1WCHiu.jpg" tvg-name="Sosyete Şaban (1985)" ,Sosyete Şaban (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285595.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfuxuFHaQ7R7H3KV8mIWSdzxj7.jpg" tvg-name="Süt Kardeşler (1976)" ,Süt Kardeşler (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285596.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPvd7XblVoVElVAljmrlF5xQByR.jpg" tvg-name="Talih Kuşu (1989)" ,Talih Kuşu (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285597.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxSVaHFxcVvgN1gjutwn107e1ZX.jpg" tvg-name="Tarzan Rıfkı (1986)" ,Tarzan Rıfkı (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285598.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opIbQdR6dtZYLTbgIDzRQpWR5zl.jpg" tvg-name="Tatlı Dillim (1972)" ,Tatlı Dillim (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285599.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k06pQoVEKr9sOC8N63ECLXcB8gF.jpg" tvg-name="Tokatçı (1983)" ,Tokatçı (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285600.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U9Uq3FBPERWrCCzwSeqpxVLdu6.jpg" tvg-name="Tosun Paşa (1976)" ,Tosun Paşa (1976)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285601.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv5s0mra4bIwvTZNwVtwvmiqPT7.jpg" tvg-name="Üç Kağıtçı (1981)" ,Üç Kağıtçı (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285602.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1M3BtTxgFfnlYiU2sntmoBI9gWc.jpg" tvg-name="Umudumuz Şaban (1979)" ,Umudumuz Şaban (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285603.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCLMg6zWZc69APOEq8XIaLJbJSG.jpg" tvg-name="Uyanık Gazeteci (1988)" ,Uyanık Gazeteci (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285604.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY6AMRAQz7mTKvrRZkREHGd8Jh4.jpg" tvg-name="Varyemez (1991)" ,Varyemez (1991)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285605.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/we0YmR4gaxIPSDaRlQSXpbnKoE3.jpg" tvg-name="Yakışıklı (1987)" ,Yakışıklı (1987)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285606.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fjT62AIEAavZmRzNWQs14Fmu6l.jpg" tvg-name="Yalancı Yarim (1973)" ,Yalancı Yarim (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285607.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7Ykt20z8K4XTah4dWylhmPs5xc.jpg" tvg-name="Yedi Bela Hüsnü (1983)" ,Yedi Bela Hüsnü (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285608.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9dAlqgumPvShuNxjAkP2EqjygS.jpg" tvg-name="Yoksul (1986)" ,Yoksul (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285609.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gp1zoIvUmMUjj9qARNfhGS8LlN.jpg" tvg-name="100 Numaralı Adam (1978)" ,100 Numaralı Adam (1978)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285610.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDV7c8nxzs5mttLv81Jd8mOGEZ6.jpg" tvg-name="Zehir Hafiye (1989)" ,Zehir Hafiye (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285611.mkv
+#EXTINF:-1 group-title="TR | KEMAL SUNAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmRXqXgyCbuC50mAs2Q32wdUjxO.jpg" tvg-name="Zübük (1980)" ,Zübük (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/285612.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNB51pw1uGvRTDXe7uIAgwutQXv.jpg" tvg-name="Adile Teyze (1983)" ,Adile Teyze (1983)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288509.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA0MTdjNTYtMWViMS00ZjEzLWJhYjYtN2FjYWE2MTFkNjhhXkEyXkFqcGdeQXVyMjQ2OTI2MzU@._V1_FMjpg_UX1000_.jpg" tvg-name="Ali Cengiz Oyunu (1972)" ,Ali Cengiz Oyunu (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288510.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Alt%C4%B1nPrensDevler%C3%9Clkesinde.jpg" tvg-name="Altın Prens Devler Ülkesinde (1971)" ,Altın Prens Devler Ülkesinde (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288511.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5xpucMoR2myLyzPLAl6k907jUq.jpg" tvg-name="Amerikalı (1993)" ,Amerikalı (1993)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288512.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpmtoPapd6XpCcB5e1p1HCCso3.jpg" tvg-name="Aptal Şampiyon (1975)" ,Aptal Şampiyon (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288513.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lrHbO9b7ikGmeFMbF3dfjY2Qxz.jpg" tvg-name="Arabesk (1989)" ,Arabesk (1989)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288514.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBc8i2MsaJLvZKWln9PzMprQLhW.jpg" tvg-name="Asi Kalpler (1972)" ,Asi Kalpler (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288515.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixki03uwg1V9ZUTouupVQMwXLsN.jpg" tvg-name="Aşık Oldum (1985)" ,Aşık Oldum (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288516.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoH9M13NQ8gCJvlub5p849IG1rC.jpg" tvg-name="Aşk Filmlerinin Unutulmaz Yönetmeni (1990)" ,Aşk Filmlerinin Unutulmaz Yönetmeni (1990)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288517.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/1/11/A%C5%9Fk_Mahkumu_%28film%29.jpg/330px-A%C5%9Fk_Mahkumu_%28film%29.jpg" tvg-name="Aşk Mahkûmu (1973)" ,Aşk Mahkûmu (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288518.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tEku9vgwodtd5ToHpc9TDC6Aiq.jpg" tvg-name="Av Mevsimi (2010)" ,Av Mevsimi (2010)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288519.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vKRpjigWpCIQaT9TbgqTh8Zhen.jpg" tvg-name="Bak Yeşil Yeşil (1975)" ,Bak Yeşil Yeşil (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288520.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0rnkXRmVW8eEWh1PfHnk4cAuPh.jpg" tvg-name="Banker Bilo (1980)" ,Banker Bilo (1980)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288521.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msPzNuSnqnFm3eKy4xO3aLe8xMI.jpg" tvg-name="Bir Demet Menekşe (1973)" ,Bir Demet Menekşe (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288522.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tzsn7iMnNBEbGHe9gynLM8XZRm.jpg" tvg-name="Bitirimler Sosyetede (1973)" ,Bitirimler Sosyetede (1973)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288523.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" tvg-name="Bizim Aile (1975)" ,Bizim Aile (1975)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288524.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqPX758AtUanPnV0d3TCjpaxG3H.jpg" tvg-name="Çiçek Abbas (1982)" ,Çiçek Abbas (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288525.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYEv1BHssjFTgUDGv4nXxsDQUo.jpg" tvg-name="Çıplak Vatandaş (1985)" ,Çıplak Vatandaş (1985)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288526.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ccohyzPylTYLOgaSC067TcPhZx.jpg" tvg-name="Davaro (1981)" ,Davaro (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288527.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVswnWtTg4IXMwXxCGZhIYlA4wM.jpg" tvg-name="Değirmen (1986)" ,Değirmen (1986)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288528.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ0ZjUyZmYtMjcxYy00MDk0LWE0ODUtZWY1OWNjYmExMzYyXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_QL75_UY281_CR3,0,190,281_.jpg" tvg-name="Dinmeyen Sızı (1972)" ,Dinmeyen Sızı (1972)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288529.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" tvg-name="Dolap Beygiri (1982)" ,Dolap Beygiri (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288530.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl1H9M8dUAnFmZ5OW44FZTBIPTV.jpg" tvg-name="Düşmanlarım Çatlasın (1974)" ,Düşmanlarım Çatlasın (1974)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288531.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFLkoR5bBZlz8wXHVoHZyYHzNIj.jpg" tvg-name="Erkek Güzeli Sefil Bilo (1979)" ,Erkek Güzeli Sefil Bilo (1979)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288532.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M2DKRBI9O79dSXGGbshugpQgor.jpg" tvg-name="Eşkıya (1996)" ,Eşkıya (1996)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288533.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anorpjysISkC6ykx8WEPFmsJGY6.jpg" tvg-name="Gırgıriye'de Şenlik Var (1981)" ,Gırgıriye'de Şenlik Var (1981)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288534.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qyYDgvQr4aC4jnZwEKGSbplDR.jpg" tvg-name="Gölge Oyunu (1992)" ,Gölge Oyunu (1992)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288535.mkv
+#EXTINF:-1 group-title="TR | SENER SEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XRUYrhEfHnrteA3rTvS6rCWh27.jpg" tvg-name="Gönül Yarası (2005)" ,Gönül Yarası (2005)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/288536.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpNS4FdXeQly0EhWkrYmx3nTbpx.jpg" tvg-name="Vay Başımıza Gelenler - 1979" ,Vay Başımıza Gelenler - 1979
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406142.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/opIbQdR6dtZYLTbgIDzRQpWR5zl.jpg" tvg-name="Tatlı Dillim - 1972" ,Tatlı Dillim - 1972
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406141.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWV8X9clnpRhQMdia8swIVrV0Ki.jpg" tvg-name="Sivri Akıllılar - 1977" ,Sivri Akıllılar - 1977
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406140.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSFPjntI0qYfgR006zOeI4kJyhU.jpg" tvg-name="Şaka Yapma - 1981" ,Şaka Yapma - 1981
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406139.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qTRuqVHzR04kZOwjuFpNgDn2pO.jpg" tvg-name="Rus Gelin (2003)" ,Rus Gelin (2003)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406138.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51VXzeU1kvW3qVtIOpUHTuKkl9v.jpg" tvg-name="Petrol Kralları - 1978" ,Petrol Kralları - 1978
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406137.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW5tZtwieJv8MSl93RzPY0d1toO.jpg" tvg-name="Patron Duymasın - 1985" ,Patron Duymasın - 1985
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406136.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snXXbIxpQgNDXC5O7M8SvVRhVTp.jpg" tvg-name="Nereye Bakıyor Bu Adamlar - 1976" ,Nereye Bakıyor Bu Adamlar - 1976
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406135.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoyvqsgfC0OdVJrDrnTVrv5eDr5.jpg" tvg-name="Nereden Çıktı Bu Velet - 1975" ,Nereden Çıktı Bu Velet - 1975
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406134.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgIWxS14Ds4QrtwSF4IQDG9ep0s.jpg" tvg-name="Namus Düşmanı - 1986" ,Namus Düşmanı - 1986
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406133.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6asU8TjHqwboEgdx8ZzxjpYgS.jpg" tvg-name="Mirasyediler - 1974" ,Mirasyediler - 1974
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406132.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" tvg-name="Köyden İndim Şehire - 1974" ,Köyden İndim Şehire - 1974
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406131.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEjAFazwC8B6Dle0Abpb6mLuNRN.jpg" tvg-name="Köşe Kapmaca - 1979" ,Köşe Kapmaca - 1979
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406130.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/k/Kaynanam-Kudurdu-1293823517.jpg" tvg-name="Kaynanam Kudurdu 1973" ,Kaynanam Kudurdu 1973
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406129.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmJ1T3I6kuRny136s3V6JDve70j.jpg" tvg-name="Her Gönülde Bir Aslan Yatar - 1976" ,Her Gönülde Bir Aslan Yatar - 1976
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406128.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTCy8JOzbdKkNeZKQQj9KsxDcYM.jpg" tvg-name="Hayattan Korkma (2008)" ,Hayattan Korkma (2008)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406127.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr9tD4bbPxOpY2aXYAtPAjiG8zL.jpg" tvg-name="Hasip ile Nasip - 1976" ,Hasip ile Nasip - 1976
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406126.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrsEGB2stydJ8jQaoXCen5qmrV.jpg" tvg-name="Hamsi Nuri (1971)" ,Hamsi Nuri (1971)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406125.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XlKlxnzIsKbZEKw2U37LsasUT.jpg" tvg-name="Güler misin Ağlar mısın Kabare (1988)" ,Güler misin Ağlar mısın Kabare (1988)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406124.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XlKlxnzIsKbZEKw2U37LsasUT.jpg" tvg-name="Güler misin Ağlar mısın - 1975" ,Güler misin Ağlar mısın - 1975
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406123.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcFjMC1algAC1DBlWYVavoQyqa1.jpg" tvg-name="Dönme Dolap - 1983" ,Dönme Dolap - 1983
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406122.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjkIaP6HJr4PocyR68SPquF4sn8.jpg" tvg-name="Döngel Kârhanesi - 2005" ,Döngel Kârhanesi - 2005
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406121.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w0aNVvDdJ0pXwIRekyvtBqissj.jpg" tvg-name="Davetsiz Misafir - 1983" ,Davetsiz Misafir - 1983
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406120.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBInVSHiUOY5mQkR3xwqPII46F5.jpg" tvg-name="Beş Tavuk Bir Horoz - 1974" ,Beş Tavuk Bir Horoz - 1974
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406119.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJmKAAvQOHZtGNgoAEU2c87MVLo.jpg" tvg-name="Beş Milyoncuk Borç Verir misin - 1975" ,Beş Milyoncuk Borç Verir misin - 1975
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406118.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZNU2Do7ktD3EUQR58buhAncw69.jpg" tvg-name="Baş Belası (1982)" ,Baş Belası (1982)
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406117.mkv
+#EXTINF:-1 group-title="TR | ZEKI VE METIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4m3ahSv4HXYoeGoV7hOjcF0yFz.jpg" tvg-name="Aslan Bacanak - 1977" ,Aslan Bacanak - 1977
+http://xruistream.bio:8080/movie/ayhanbekdemir/kzEWQ6CKeJVU/406116.mkv
