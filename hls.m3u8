@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:24
-#EXT-X-TARGETDURATION:10
-#EXT-X-ENDLIST
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=2085600,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE,CODECS="avc1.640029,mp4a.40.2"
+https://cinque.1da87064b1b25605.shop/p/arpore/705/c.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
