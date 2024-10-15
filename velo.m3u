@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1 HD" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TELE 1 HD
+http://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1 HD YEDEK" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TELE 1 HD YEDEK http://abmplus.xyz:8080/emreaydinli/XFNTEHQe4zpn/4775
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV" tvg-logo="https://i.hizliresim.com/qnf61un.png" group-title="04)TR➾ HABER",TR: HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV YEDEK" tvg-logo="https://i.hizliresim.com/qnf61un.png" group-title="04)TR➾ HABER",TR: HALK TV YEDEK
+http://abmplus.xyz:8080/emreaydinli/XFNTEHQe4zpn/80
